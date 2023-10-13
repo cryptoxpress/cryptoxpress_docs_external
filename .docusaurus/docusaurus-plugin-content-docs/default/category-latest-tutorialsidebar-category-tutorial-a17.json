@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial",
+  "permalink": "/latest/category/tutorial",
+  "navigation": {
+    "previous": {
+      "title": "Import Existing Wallet",
+      "permalink": "/latest/basics/getting_started/import_wallet"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/latest/tutorial-basics/create-a-page"
+    }
+  }
+}

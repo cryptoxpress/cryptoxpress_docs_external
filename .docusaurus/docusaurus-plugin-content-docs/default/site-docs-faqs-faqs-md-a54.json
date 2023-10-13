@@ -1,0 +1,22 @@
+{
+  "unversionedId": "faqs/faqs",
+  "id": "faqs/faqs",
+  "title": "FAQ's",
+  "description": "",
+  "source": "@site/docs/faqs/faqs.md",
+  "sourceDirName": "faqs",
+  "slug": "/faqs/",
+  "permalink": "/latest/faqs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "FAQ's",
+    "title": "FAQ's"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ's",
+    "permalink": "/latest/category/faqs"
+  }
+}

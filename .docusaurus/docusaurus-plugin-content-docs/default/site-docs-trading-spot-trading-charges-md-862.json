@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/spot_trading/charges",
+  "id": "trading/spot_trading/charges",
+  "title": "What is CryptoXpress Spot Trading fees and How to Calculate ?",
+  "description": "The CryptoXpress Application also offers a spot trading feature, allowing users to engage in immediate cryptocurrency exchanges at current market rates.",
+  "source": "@site/docs/trading/spot_trading/charges.md",
+  "sourceDirName": "trading/spot_trading",
+  "slug": "/trading/spot_trading/charges",
+  "permalink": "/github_deploy/latest/trading/spot_trading/charges",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "What is CryptoXpress Spot Trading fees and How to Calculate ?",
+    "sidebar_label": "Trading fees",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Order Types",
+    "permalink": "/github_deploy/latest/trading/spot_trading/orders"
+  },
+  "next": {
+    "title": "Futures Trading",
+    "permalink": "/github_deploy/latest/category/futures-trading"
+  }
+}

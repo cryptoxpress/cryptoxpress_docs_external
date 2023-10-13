@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptoxpress_docs_external=self.webpackChunkcryptoxpress_docs_external||[]).push([[1157],{7877:e=>{e.exports=JSON.parse('{"permalink":"/github_deploy/blog/tags/hello","page":1,"postsPerPage":9,"totalPages":1,"totalCount":2,"blogDescription":"Articles about CryptoXpress","blogTitle":"Articles about CryptoXpress"}')}}]);

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/getting_started/import_wallet",
+  "id": "basics/getting_started/import_wallet",
+  "title": "Import Your Existing Wallet",
+  "description": "You can also import your existing Wallet from other apps to CryptoXpress.",
+  "source": "@site/docs/basics/getting_started/import_wallet.mdx",
+  "sourceDirName": "basics/getting_started",
+  "slug": "/basics/getting_started/import_wallet",
+  "permalink": "/github_deploy/latest/basics/getting_started/import_wallet",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Import Existing Wallet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart with CryptoXpress",
+    "permalink": "/github_deploy/latest/basics/getting_started/intro"
+  },
+  "next": {
+    "title": "Adding Beneficiaries",
+    "permalink": "/github_deploy/latest/basics/getting_started/beneficiary"
+  }
+}

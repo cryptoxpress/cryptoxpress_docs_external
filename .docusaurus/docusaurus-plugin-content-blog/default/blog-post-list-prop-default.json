@@ -1,0 +1,21 @@
+{
+  "title": "Latest posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/github_deploy/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/github_deploy/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/github_deploy/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/github_deploy/blog/first-blog-post"
+    }
+  ]
+}

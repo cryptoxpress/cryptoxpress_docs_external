@@ -1,0 +1,15 @@
+{
+  "title": "User Guide",
+  "slug": "/category/user-guide",
+  "permalink": "/latest/category/user-guide",
+  "navigation": {
+    "previous": {
+      "title": "Import Existing Wallet",
+      "permalink": "/latest/basics/getting_started/import_wallet"
+    },
+    "next": {
+      "title": "Wallet",
+      "permalink": "/latest/user-guides/wallets"
+    }
+  }
+}

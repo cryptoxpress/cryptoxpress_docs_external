@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/futures_trading/future_trade",
+  "id": "trading/futures_trading/future_trade",
+  "title": "Future Trading",
+  "description": "Overview",
+  "source": "@site/docs/trading/futures_trading/future_trade.md",
+  "sourceDirName": "trading/futures_trading",
+  "slug": "/trading/futures_trading/future_trade",
+  "permalink": "/github_deploy/latest/trading/futures_trading/future_trade",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Future Trading",
+    "sidebar_label": "Trading Guide",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Futures Trading",
+    "permalink": "/github_deploy/latest/category/futures-trading"
+  },
+  "next": {
+    "title": "Order Types",
+    "permalink": "/github_deploy/latest/trading/futures_trading/orders"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/getting_started/beneficiary",
+  "id": "basics/getting_started/beneficiary",
+  "title": "How to add Beneficiaries ?",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+  "source": "@site/docs/basics/getting_started/beneficiary.mdx",
+  "sourceDirName": "basics/getting_started",
+  "slug": "/basics/getting_started/beneficiary",
+  "permalink": "/github_deploy/latest/basics/getting_started/beneficiary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Adding Beneficiaries",
+    "title": "How to add Beneficiaries ?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Import Existing Wallet",
+    "permalink": "/github_deploy/latest/basics/getting_started/import_wallet"
+  },
+  "next": {
+    "title": "User Guide",
+    "permalink": "/github_deploy/latest/category/user-guide"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Trade",
+  "slug": "/category/trade",
+  "permalink": "/latest/category/trade",
+  "navigation": {
+    "previous": {
+      "title": "Wallet",
+      "permalink": "/latest/user-guides/wallets"
+    },
+    "next": {
+      "title": "Spot Trading",
+      "permalink": "/latest/user-guides/trade/spot_trade"
+    }
+  }
+}

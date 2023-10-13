@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/spot_trading/orders",
+  "id": "trading/spot_trading/orders",
+  "title": "Different Order Types",
+  "description": "The CryptoXpress Application also offers a spot trading feature, allowing users to engage in immediate cryptocurrency exchanges at current market rates.",
+  "source": "@site/docs/trading/spot_trading/orders.md",
+  "sourceDirName": "trading/spot_trading",
+  "slug": "/trading/spot_trading/orders",
+  "permalink": "/github_deploy/latest/trading/spot_trading/orders",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Different Order Types",
+    "sidebar_label": "Order Types",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading Guide",
+    "permalink": "/github_deploy/latest/trading/spot_trading/spot_trade"
+  },
+  "next": {
+    "title": "Trading fees",
+    "permalink": "/github_deploy/latest/trading/spot_trading/charges"
+  }
+}

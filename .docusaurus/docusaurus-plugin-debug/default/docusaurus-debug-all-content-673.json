@@ -1,0 +1,1424 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "v2.x",
+          "banner": null,
+          "badge": true,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/github_deploy/latest",
+          "tagsPath": "/github_deploy/latest/tags",
+          "isLast": true,
+          "sidebarFilePath": "C:\\Cryptoxpress_app\\cryptoxpress_docs_external\\sidebars.js",
+          "contentPath": "C:\\Cryptoxpress_app\\cryptoxpress_docs_external\\docs",
+          "contentPathLocalized": "C:\\Cryptoxpress_app\\cryptoxpress_docs_external\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "basics/getting_started/beneficiary",
+              "id": "basics/getting_started/beneficiary",
+              "title": "How to add Beneficiaries ?",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+              "source": "@site/docs/basics/getting_started/beneficiary.mdx",
+              "sourceDirName": "basics/getting_started",
+              "slug": "/basics/getting_started/beneficiary",
+              "permalink": "/github_deploy/latest/basics/getting_started/beneficiary",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "sidebar_label": "Adding Beneficiaries",
+                "title": "How to add Beneficiaries ?"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Import Existing Wallet",
+                "permalink": "/github_deploy/latest/basics/getting_started/import_wallet"
+              },
+              "next": {
+                "title": "User Guide",
+                "permalink": "/github_deploy/latest/category/user-guide"
+              }
+            },
+            {
+              "unversionedId": "basics/getting_started/import_wallet",
+              "id": "basics/getting_started/import_wallet",
+              "title": "Import Your Existing Wallet",
+              "description": "You can also import your existing Wallet from other apps to CryptoXpress.",
+              "source": "@site/docs/basics/getting_started/import_wallet.mdx",
+              "sourceDirName": "basics/getting_started",
+              "slug": "/basics/getting_started/import_wallet",
+              "permalink": "/github_deploy/latest/basics/getting_started/import_wallet",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "Import Existing Wallet"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quickstart with CryptoXpress",
+                "permalink": "/github_deploy/latest/basics/getting_started/intro"
+              },
+              "next": {
+                "title": "Adding Beneficiaries",
+                "permalink": "/github_deploy/latest/basics/getting_started/beneficiary"
+              }
+            },
+            {
+              "unversionedId": "basics/getting_started/intro",
+              "id": "basics/getting_started/intro",
+              "title": "CryptoXpress Beginner's Guide",
+              "description": "Let's discover CryptoXpress ! Kickstart your Journey in less than 5 minutes.",
+              "source": "@site/docs/basics/getting_started/intro.md",
+              "sourceDirName": "basics/getting_started",
+              "slug": "/basics/getting_started/intro",
+              "permalink": "/github_deploy/latest/basics/getting_started/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Quickstart with CryptoXpress"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/github_deploy/latest/basics/getting_started/overview"
+              },
+              "next": {
+                "title": "Import Existing Wallet",
+                "permalink": "/github_deploy/latest/basics/getting_started/import_wallet"
+              }
+            },
+            {
+              "unversionedId": "basics/getting_started/overview",
+              "id": "basics/getting_started/overview",
+              "title": "Getting Started with CryptoXpress",
+              "description": "The CryptoXpress application offers a wide array of features, including cryptocurrency trading, staking, flight and hotel booking, NFT purchases, and effortless fund transfers to family and friends, all with just a few taps.",
+              "source": "@site/docs/basics/getting_started/overview.mdx",
+              "sourceDirName": "basics/getting_started",
+              "slug": "/basics/getting_started/overview",
+              "permalink": "/github_deploy/latest/basics/getting_started/overview",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Overview"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/github_deploy/latest/category/getting-started"
+              },
+              "next": {
+                "title": "Quickstart with CryptoXpress",
+                "permalink": "/github_deploy/latest/basics/getting_started/intro"
+              }
+            },
+            {
+              "unversionedId": "basics/introduction",
+              "id": "basics/introduction",
+              "title": "CryptoXpress Documentation",
+              "description": "CryptoXpress simplifies your Crypto and Blockchain experience, providing instant access to core features like Trading, NFTs, and Wallets through its application. So you can spend your time wisely, focusing on what matters most, with the convenience of CryptoXpress.",
+              "source": "@site/docs/basics/introduction.mdx",
+              "sourceDirName": "basics",
+              "slug": "/basics/introduction",
+              "permalink": "/github_deploy/latest/basics/introduction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "CryptoXpress Documentation",
+                "sidebar_label": "Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Basics",
+                "permalink": "/github_deploy/latest/category/basics"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/github_deploy/latest/category/getting-started"
+              }
+            },
+            {
+              "unversionedId": "faqs/faqs",
+              "id": "faqs/faqs",
+              "title": "FAQ's",
+              "description": "Popular Topics",
+              "source": "@site/docs/faqs/faqs.mdx",
+              "sourceDirName": "faqs",
+              "slug": "/faqs/",
+              "permalink": "/github_deploy/latest/faqs/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "FAQ's",
+                "title": "FAQ's"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FAQ's",
+                "permalink": "/github_deploy/latest/category/faqs"
+              }
+            },
+            {
+              "unversionedId": "trading/coins/coins",
+              "id": "trading/coins/coins",
+              "title": "Overview",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+              "source": "@site/docs/trading/coins/coins.md",
+              "sourceDirName": "trading/coins",
+              "slug": "/trading/coins/",
+              "permalink": "/github_deploy/latest/trading/coins/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Overview",
+                "sidebar_label": "Overview",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Coins",
+                "permalink": "/github_deploy/latest/category/coins"
+              },
+              "next": {
+                "title": "News Section",
+                "permalink": "/github_deploy/latest/trading/coins/news"
+              }
+            },
+            {
+              "unversionedId": "trading/coins/info",
+              "id": "trading/coins/info",
+              "title": "How to see Coin Information in App ?",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+              "source": "@site/docs/trading/coins/info.md",
+              "sourceDirName": "trading/coins",
+              "slug": "/trading/coins/info",
+              "permalink": "/github_deploy/latest/trading/coins/info",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "How to see Coin Information in App ?",
+                "sidebar_label": "Information Section",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "News Section",
+                "permalink": "/github_deploy/latest/trading/coins/news"
+              },
+              "next": {
+                "title": "Watchlist Section",
+                "permalink": "/github_deploy/latest/trading/coins/watchlist"
+              }
+            },
+            {
+              "unversionedId": "trading/coins/news",
+              "id": "trading/coins/news",
+              "title": "How to see Coin News in App ?",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+              "source": "@site/docs/trading/coins/news.md",
+              "sourceDirName": "trading/coins",
+              "slug": "/trading/coins/news",
+              "permalink": "/github_deploy/latest/trading/coins/news",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "How to see Coin News in App ?",
+                "sidebar_label": "News Section",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/github_deploy/latest/trading/coins/"
+              },
+              "next": {
+                "title": "Information Section",
+                "permalink": "/github_deploy/latest/trading/coins/info"
+              }
+            },
+            {
+              "unversionedId": "trading/coins/watchlist",
+              "id": "trading/coins/watchlist",
+              "title": "How to save Coin to Watchlist ?",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+              "source": "@site/docs/trading/coins/watchlist.md",
+              "sourceDirName": "trading/coins",
+              "slug": "/trading/coins/watchlist",
+              "permalink": "/github_deploy/latest/trading/coins/watchlist",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "How to save Coin to Watchlist ?",
+                "sidebar_label": "Watchlist Section",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Information Section",
+                "permalink": "/github_deploy/latest/trading/coins/info"
+              },
+              "next": {
+                "title": "Spot Trading",
+                "permalink": "/github_deploy/latest/category/spot-trading"
+              }
+            },
+            {
+              "unversionedId": "trading/futures_trading/charges",
+              "id": "trading/futures_trading/charges",
+              "title": "What is CryptoXpress Futures Trading fees and How to Calculate ?",
+              "description": "The CryptoXpress Application also offers a Futures trading feature, allowing users to engage with contracts between investors betting on a cryptocurrency future price.",
+              "source": "@site/docs/trading/futures_trading/charges.md",
+              "sourceDirName": "trading/futures_trading",
+              "slug": "/trading/futures_trading/charges",
+              "permalink": "/github_deploy/latest/trading/futures_trading/charges",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "What is CryptoXpress Futures Trading fees and How to Calculate ?",
+                "sidebar_label": "Trading fees",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Order Types",
+                "permalink": "/github_deploy/latest/trading/futures_trading/orders"
+              },
+              "next": {
+                "title": "Transaction History",
+                "permalink": "/github_deploy/latest/trading/transaction_history"
+              }
+            },
+            {
+              "unversionedId": "trading/futures_trading/future_trade",
+              "id": "trading/futures_trading/future_trade",
+              "title": "Future Trading",
+              "description": "Overview",
+              "source": "@site/docs/trading/futures_trading/future_trade.md",
+              "sourceDirName": "trading/futures_trading",
+              "slug": "/trading/futures_trading/future_trade",
+              "permalink": "/github_deploy/latest/trading/futures_trading/future_trade",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Future Trading",
+                "sidebar_label": "Trading Guide",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Futures Trading",
+                "permalink": "/github_deploy/latest/category/futures-trading"
+              },
+              "next": {
+                "title": "Order Types",
+                "permalink": "/github_deploy/latest/trading/futures_trading/orders"
+              }
+            },
+            {
+              "unversionedId": "trading/futures_trading/orders",
+              "id": "trading/futures_trading/orders",
+              "title": "Different Order Types",
+              "description": "The CryptoXpress Application also offers a Futures trading feature, allowing users to engage with contracts between investors betting on a cryptocurrency future price.",
+              "source": "@site/docs/trading/futures_trading/orders.md",
+              "sourceDirName": "trading/futures_trading",
+              "slug": "/trading/futures_trading/orders",
+              "permalink": "/github_deploy/latest/trading/futures_trading/orders",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Different Order Types",
+                "sidebar_label": "Order Types",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Trading Guide",
+                "permalink": "/github_deploy/latest/trading/futures_trading/future_trade"
+              },
+              "next": {
+                "title": "Trading fees",
+                "permalink": "/github_deploy/latest/trading/futures_trading/charges"
+              }
+            },
+            {
+              "unversionedId": "trading/spot_trading/charges",
+              "id": "trading/spot_trading/charges",
+              "title": "What is CryptoXpress Spot Trading fees and How to Calculate ?",
+              "description": "The CryptoXpress Application also offers a spot trading feature, allowing users to engage in immediate cryptocurrency exchanges at current market rates.",
+              "source": "@site/docs/trading/spot_trading/charges.md",
+              "sourceDirName": "trading/spot_trading",
+              "slug": "/trading/spot_trading/charges",
+              "permalink": "/github_deploy/latest/trading/spot_trading/charges",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "What is CryptoXpress Spot Trading fees and How to Calculate ?",
+                "sidebar_label": "Trading fees",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Order Types",
+                "permalink": "/github_deploy/latest/trading/spot_trading/orders"
+              },
+              "next": {
+                "title": "Futures Trading",
+                "permalink": "/github_deploy/latest/category/futures-trading"
+              }
+            },
+            {
+              "unversionedId": "trading/spot_trading/orders",
+              "id": "trading/spot_trading/orders",
+              "title": "Different Order Types",
+              "description": "The CryptoXpress Application also offers a spot trading feature, allowing users to engage in immediate cryptocurrency exchanges at current market rates.",
+              "source": "@site/docs/trading/spot_trading/orders.md",
+              "sourceDirName": "trading/spot_trading",
+              "slug": "/trading/spot_trading/orders",
+              "permalink": "/github_deploy/latest/trading/spot_trading/orders",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Different Order Types",
+                "sidebar_label": "Order Types",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Trading Guide",
+                "permalink": "/github_deploy/latest/trading/spot_trading/spot_trade"
+              },
+              "next": {
+                "title": "Trading fees",
+                "permalink": "/github_deploy/latest/trading/spot_trading/charges"
+              }
+            },
+            {
+              "unversionedId": "trading/spot_trading/spot_trade",
+              "id": "trading/spot_trading/spot_trade",
+              "title": "How to Spot Trade on CryptoXpress ?",
+              "description": "Overview",
+              "source": "@site/docs/trading/spot_trading/spot_trade.md",
+              "sourceDirName": "trading/spot_trading",
+              "slug": "/trading/spot_trading/spot_trade",
+              "permalink": "/github_deploy/latest/trading/spot_trading/spot_trade",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "How to Spot Trade on CryptoXpress ?",
+                "sidebar_label": "Trading Guide",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spot Trading",
+                "permalink": "/github_deploy/latest/category/spot-trading"
+              },
+              "next": {
+                "title": "Order Types",
+                "permalink": "/github_deploy/latest/trading/spot_trading/orders"
+              }
+            },
+            {
+              "unversionedId": "trading/transaction_history",
+              "id": "trading/transaction_history",
+              "title": "Transaction History",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+              "source": "@site/docs/trading/transaction_history.md",
+              "sourceDirName": "trading",
+              "slug": "/trading/transaction_history",
+              "permalink": "/github_deploy/latest/trading/transaction_history",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Transaction History",
+                "sidebar_label": "Transaction History",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Trading fees",
+                "permalink": "/github_deploy/latest/trading/futures_trading/charges"
+              },
+              "next": {
+                "title": "Transfer Funds",
+                "permalink": "/github_deploy/latest/trading/transfer"
+              }
+            },
+            {
+              "unversionedId": "trading/transfer",
+              "id": "trading/transfer",
+              "title": "How to Transfer Funds b/w Futures and Spot ?",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+              "source": "@site/docs/trading/transfer.md",
+              "sourceDirName": "trading",
+              "slug": "/trading/transfer",
+              "permalink": "/github_deploy/latest/trading/transfer",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "How to Transfer Funds b/w Futures and Spot ?",
+                "sidebar_label": "Transfer Funds",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transaction History",
+                "permalink": "/github_deploy/latest/trading/transaction_history"
+              },
+              "next": {
+                "title": "Explore the World",
+                "permalink": "/github_deploy/latest/category/explore-the-world"
+              }
+            },
+            {
+              "unversionedId": "travel/flights",
+              "id": "travel/flights",
+              "title": "Sky Journey",
+              "description": "Overview",
+              "source": "@site/docs/travel/flights.md",
+              "sourceDirName": "travel",
+              "slug": "/travel/flights",
+              "permalink": "/github_deploy/latest/travel/flights",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Sky Journey",
+                "sidebar_label": "Sky Journey",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Explore the World",
+                "permalink": "/github_deploy/latest/category/explore-the-world"
+              },
+              "next": {
+                "title": "Hospitality Hub",
+                "permalink": "/github_deploy/latest/travel/hotels"
+              }
+            },
+            {
+              "unversionedId": "travel/hotels",
+              "id": "travel/hotels",
+              "title": "Hospitality Hub",
+              "description": "Overview",
+              "source": "@site/docs/travel/hotels.md",
+              "sourceDirName": "travel",
+              "slug": "/travel/hotels",
+              "permalink": "/github_deploy/latest/travel/hotels",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Hospitality Hub",
+                "sidebar_label": "Hospitality Hub",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sky Journey",
+                "permalink": "/github_deploy/latest/travel/flights"
+              },
+              "next": {
+                "title": "FAQ's",
+                "permalink": "/github_deploy/latest/category/faqs"
+              }
+            },
+            {
+              "unversionedId": "user-guides/account/delete_account",
+              "id": "user-guides/account/delete_account",
+              "title": "Remove Account",
+              "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+              "source": "@site/docs/user-guides/account/delete_account.md",
+              "sourceDirName": "user-guides/account",
+              "slug": "/user-guides/account/delete_account",
+              "permalink": "/github_deploy/latest/user-guides/account/delete_account",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Remove Account",
+                "sidebar_label": "Delete Account",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "KYC Verification",
+                "permalink": "/github_deploy/latest/user-guides/account/kyc"
+              },
+              "next": {
+                "title": "Wallet",
+                "permalink": "/github_deploy/latest/user-guides/wallets"
+              }
+            },
+            {
+              "unversionedId": "user-guides/account/kyc",
+              "id": "user-guides/account/kyc",
+              "title": "KYC Account Verification",
+              "description": "To fully harness the capabilities of Cryptoxpress and access all the features offered by the app, users are required to undergo the KYC (Know Your Customer) verification process. This essential step can be completed during the initial account creation or at any time when users feel the need to enhance their account's functionality. Once completed, it unlocks a host of features, including seamless trading, the ability to make payments, hassle-free fund transfers, and much more.",
+              "source": "@site/docs/user-guides/account/kyc.md",
+              "sourceDirName": "user-guides/account",
+              "slug": "/user-guides/account/kyc",
+              "permalink": "/github_deploy/latest/user-guides/account/kyc",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "KYC Account Verification",
+                "sidebar_label": "KYC Verification",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Account",
+                "permalink": "/github_deploy/latest/category/account"
+              },
+              "next": {
+                "title": "Delete Account",
+                "permalink": "/github_deploy/latest/user-guides/account/delete_account"
+              }
+            },
+            {
+              "unversionedId": "user-guides/gift_card",
+              "id": "user-guides/gift_card",
+              "title": "Gift Cards",
+              "description": "CryptoXpress  not only provides its core services but also offers added convenience through the CryptoXpress Shop Section. Here, users can easily purchase gift cards using cryptocurrency payments, all made possible with the assistance of Xoxoday.",
+              "source": "@site/docs/user-guides/gift_card.mdx",
+              "sourceDirName": "user-guides",
+              "slug": "/user-guides/gift_card",
+              "permalink": "/github_deploy/latest/user-guides/gift_card",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Vouchers",
+                "title": "Gift Cards",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Wallet",
+                "permalink": "/github_deploy/latest/user-guides/wallets"
+              },
+              "next": {
+                "title": "NFT's",
+                "permalink": "/github_deploy/latest/user-guides/nft"
+              }
+            },
+            {
+              "unversionedId": "user-guides/nft",
+              "id": "user-guides/nft",
+              "title": "NFT's",
+              "description": "CryptoXpress  not only provides its core services but also offers added convenience through the CryptoXpress Shop Section. Here, users can easily purchase gift cards using cryptocurrency payments, all made possible with the assistance of Xoxoday.",
+              "source": "@site/docs/user-guides/nft.mdx",
+              "sourceDirName": "user-guides",
+              "slug": "/user-guides/nft",
+              "permalink": "/github_deploy/latest/user-guides/nft",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "NFT's",
+                "title": "NFT's",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vouchers",
+                "permalink": "/github_deploy/latest/user-guides/gift_card"
+              },
+              "next": {
+                "title": "Security Management",
+                "permalink": "/github_deploy/latest/category/security-management"
+              }
+            },
+            {
+              "unversionedId": "user-guides/security/2fa",
+              "id": "user-guides/security/2fa",
+              "title": "Two-factor Authentication",
+              "description": "Two-factor Authentication is a way of verifying a user’s identity by using a combination of two different verification methods. It adds an extra layer of security, thereby ensuring that only authorized user(s) can access an account, even if the password has been compromised.",
+              "source": "@site/docs/user-guides/security/2fa.md",
+              "sourceDirName": "user-guides/security",
+              "slug": "/user-guides/security/2fa",
+              "permalink": "/github_deploy/latest/user-guides/security/2fa",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Two-factor Authentication",
+                "sidebar_label": "Two-Factor Authentication",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "App Pin",
+                "permalink": "/github_deploy/latest/user-guides/security/app_pin"
+              },
+              "next": {
+                "title": "Trading",
+                "permalink": "/github_deploy/latest/category/trading"
+              }
+            },
+            {
+              "unversionedId": "user-guides/security/app_pin",
+              "id": "user-guides/security/app_pin",
+              "title": "App Pin",
+              "description": "App pin Authentication is a security method commonly used in mobile applications and other digital platforms to enhance user privacy and protect sensitive data. This method involves users setting up a unique PIN that is required to access the application. CryptoXpress application provide two ways to access the application i.e via typing the 4-digit PIN or verify the users's via his/her Biometeric's (provided during setup)",
+              "source": "@site/docs/user-guides/security/app_pin.md",
+              "sourceDirName": "user-guides/security",
+              "slug": "/user-guides/security/app_pin",
+              "permalink": "/github_deploy/latest/user-guides/security/app_pin",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "App Pin",
+                "sidebar_label": "App Pin",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Security Management",
+                "permalink": "/github_deploy/latest/category/security-management"
+              },
+              "next": {
+                "title": "Two-Factor Authentication",
+                "permalink": "/github_deploy/latest/user-guides/security/2fa"
+              }
+            },
+            {
+              "unversionedId": "user-guides/wallets",
+              "id": "user-guides/wallets",
+              "title": "Wallet",
+              "description": "CryptoXpress Wallet is a cryptocurrency wallet that simplifies interaction with CryptoXpress Application on the Binance smart Chain (BSC)",
+              "source": "@site/docs/user-guides/wallets.md",
+              "sourceDirName": "user-guides",
+              "slug": "/user-guides/wallets",
+              "permalink": "/github_deploy/latest/user-guides/wallets",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Wallet",
+                "sidebar_label": "Wallet",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Delete Account",
+                "permalink": "/github_deploy/latest/user-guides/account/delete_account"
+              },
+              "next": {
+                "title": "Vouchers",
+                "permalink": "/github_deploy/latest/user-guides/gift_card"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "className": "tutorial_sidebar_header",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "basics/introduction",
+                    "label": "Introduction"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Getting Started",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "basics/getting_started/overview",
+                        "label": "Overview"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "basics/getting_started/intro",
+                        "label": "Quickstart with CryptoXpress"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "basics/getting_started/import_wallet",
+                        "label": "Import Existing Wallet"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "basics/getting_started/beneficiary",
+                        "label": "Adding Beneficiaries"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/getting-started",
+                      "permalink": "/github_deploy/latest/category/getting-started"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Get Started with CryptoXpress by going to the Guide in less than 5 min !",
+                  "slug": "/category/basics",
+                  "permalink": "/github_deploy/latest/category/basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "User Guide",
+                "collapsible": true,
+                "collapsed": true,
+                "className": "guide_sidebar_header",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Account",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-guides/account/kyc",
+                        "label": "KYC Verification"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "user-guides/account/delete_account",
+                        "label": "Delete Account"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/account",
+                      "permalink": "/github_deploy/latest/category/account"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "user-guides/wallets",
+                    "label": "Wallet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "user-guides/gift_card",
+                    "label": "Vouchers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "user-guides/nft",
+                    "label": "NFT's"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Security Management",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-guides/security/app_pin",
+                        "label": "App Pin"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "user-guides/security/2fa",
+                        "label": "Two-Factor Authentication"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/security-management",
+                      "permalink": "/github_deploy/latest/category/security-management"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/user-guide",
+                  "permalink": "/github_deploy/latest/category/user-guide"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Trading",
+                "collapsible": true,
+                "collapsed": true,
+                "className": "trading_sidebar_header",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Coins",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "trading/coins/coins",
+                        "label": "Overview"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/coins/news",
+                        "label": "News Section"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/coins/info",
+                        "label": "Information Section"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/coins/watchlist",
+                        "label": "Watchlist Section"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Crypto trading pairs are essential for trading on crypto exchanges.They allow users to trade one cryptocurrency for another without exchanging either for fiat currency first.",
+                      "slug": "/category/coins",
+                      "permalink": "/github_deploy/latest/category/coins"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Spot Trading",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "trading/spot_trading/spot_trade",
+                        "label": "Trading Guide"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/spot_trading/orders",
+                        "label": "Order Types"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/spot_trading/charges",
+                        "label": "Trading fees"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/spot-trading",
+                      "permalink": "/github_deploy/latest/category/spot-trading"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Futures Trading",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "trading/futures_trading/future_trade",
+                        "label": "Trading Guide"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/futures_trading/orders",
+                        "label": "Order Types"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "trading/futures_trading/charges",
+                        "label": "Trading fees"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/futures-trading",
+                      "permalink": "/github_deploy/latest/category/futures-trading"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "trading/transaction_history",
+                    "label": "Transaction History"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "trading/transfer",
+                    "label": "Transfer Funds"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/trading",
+                  "permalink": "/github_deploy/latest/category/trading"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Explore the World",
+                "collapsible": true,
+                "collapsed": true,
+                "className": "travel_sidebar_header",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "travel/flights",
+                    "label": "Sky Journey"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "travel/hotels",
+                    "label": "Hospitality Hub"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/explore-the-world",
+                  "permalink": "/github_deploy/latest/category/explore-the-world"
+                }
+              },
+              {
+                "type": "category",
+                "label": "FAQ's",
+                "collapsible": true,
+                "collapsed": true,
+                "className": "faq_sidebar_header",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "faqs/faqs",
+                    "label": "FAQ's"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/faqs",
+                  "permalink": "/github_deploy/latest/category/faqs"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Latest posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/github_deploy/blog/welcome",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/github_deploy/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/github_deploy/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/github_deploy/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/github_deploy/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/github_deploy/blog/mdx-blog-post",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/github_deploy/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/github_deploy/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/github_deploy/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/github_deploy/blog/long-blog-post",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/github_deploy/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/github_deploy/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/github_deploy/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/github_deploy/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/github_deploy/blog/first-blog-post",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/github_deploy/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/github_deploy/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/github_deploy/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/github_deploy/blog",
+            "page": 1,
+            "postsPerPage": 9,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Articles about CryptoXpress",
+            "blogTitle": "Articles about CryptoXpress"
+          }
+        }
+      ],
+      "blogTags": {
+        "/github_deploy/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/github_deploy/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/github_deploy/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 9,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Articles about CryptoXpress",
+                "blogTitle": "Articles about CryptoXpress"
+              }
+            }
+          ]
+        },
+        "/github_deploy/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/github_deploy/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/github_deploy/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 9,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Articles about CryptoXpress",
+                "blogTitle": "Articles about CryptoXpress"
+              }
+            }
+          ]
+        },
+        "/github_deploy/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/github_deploy/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/github_deploy/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 9,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Articles about CryptoXpress",
+                "blogTitle": "Articles about CryptoXpress"
+              }
+            }
+          ]
+        },
+        "/github_deploy/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/github_deploy/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/github_deploy/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 9,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Articles about CryptoXpress",
+                "blogTitle": "Articles about CryptoXpress"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/github_deploy/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/github_deploy/",
+        "source": "@site/src/pages/index.jsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/github_deploy/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-tailwindcss": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

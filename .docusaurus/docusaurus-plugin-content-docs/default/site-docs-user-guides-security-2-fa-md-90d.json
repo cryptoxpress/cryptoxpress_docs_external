@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/security/2fa",
+  "id": "user-guides/security/2fa",
+  "title": "Two-factor Authentication",
+  "description": "Two-factor Authentication is a way of verifying a user’s identity by using a combination of two different verification methods. It adds an extra layer of security, thereby ensuring that only authorized user(s) can access an account, even if the password has been compromised.",
+  "source": "@site/docs/user-guides/security/2fa.md",
+  "sourceDirName": "user-guides/security",
+  "slug": "/user-guides/security/2fa",
+  "permalink": "/github_deploy/latest/user-guides/security/2fa",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Two-factor Authentication",
+    "sidebar_label": "Two-Factor Authentication",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "App Pin",
+    "permalink": "/github_deploy/latest/user-guides/security/app_pin"
+  },
+  "next": {
+    "title": "Trading",
+    "permalink": "/github_deploy/latest/category/trading"
+  }
+}

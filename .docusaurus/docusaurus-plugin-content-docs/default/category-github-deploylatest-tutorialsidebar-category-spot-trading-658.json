@@ -1,0 +1,15 @@
+{
+  "title": "Spot Trading",
+  "slug": "/category/spot-trading",
+  "permalink": "/github_deploy/latest/category/spot-trading",
+  "navigation": {
+    "previous": {
+      "title": "Watchlist Section",
+      "permalink": "/github_deploy/latest/trading/coins/watchlist"
+    },
+    "next": {
+      "title": "Trading Guide",
+      "permalink": "/github_deploy/latest/trading/spot_trading/spot_trade"
+    }
+  }
+}

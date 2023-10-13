@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptoxpress_docs_external=self.webpackChunkcryptoxpress_docs_external||[]).push([[992],{5670:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/github_deploy/blog/tags/docusaurus","allTagsPath":"/github_deploy/blog/tags","count":4}')}}]);

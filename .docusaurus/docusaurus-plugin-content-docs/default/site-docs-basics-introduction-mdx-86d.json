@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/introduction",
+  "id": "basics/introduction",
+  "title": "CryptoXpress Documentation",
+  "description": "CryptoXpress simplifies your Crypto and Blockchain experience, providing instant access to core features like Trading, NFTs, and Wallets through its application. So you can spend your time wisely, focusing on what matters most, with the convenience of CryptoXpress.",
+  "source": "@site/docs/basics/introduction.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/introduction",
+  "permalink": "/github_deploy/latest/basics/introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "CryptoXpress Documentation",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/github_deploy/latest/category/basics"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/github_deploy/latest/category/getting-started"
+  }
+}

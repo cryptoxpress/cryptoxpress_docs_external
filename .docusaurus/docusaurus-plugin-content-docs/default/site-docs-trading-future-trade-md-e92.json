@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/future_trade",
+  "id": "trading/future_trade",
+  "title": "Future Trading",
+  "description": "Overview",
+  "source": "@site/docs/trading/future_trade.md",
+  "sourceDirName": "trading",
+  "slug": "/trading/future_trade",
+  "permalink": "/github_deploy/latest/trading/future_trade",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Future Trading",
+    "sidebar_label": "Future Trading",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading fees",
+    "permalink": "/github_deploy/latest/trading/spot_trading/charges"
+  },
+  "next": {
+    "title": "Transaction History",
+    "permalink": "/github_deploy/latest/trading/transaction_history"
+  }
+}

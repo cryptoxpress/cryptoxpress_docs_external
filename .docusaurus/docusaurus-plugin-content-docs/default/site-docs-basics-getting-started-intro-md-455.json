@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/getting_started/intro",
+  "id": "basics/getting_started/intro",
+  "title": "CryptoXpress Beginner's Guide",
+  "description": "Let's discover CryptoXpress ! Kickstart your Journey in less than 5 minutes.",
+  "source": "@site/docs/basics/getting_started/intro.md",
+  "sourceDirName": "basics/getting_started",
+  "slug": "/basics/getting_started/intro",
+  "permalink": "/github_deploy/latest/basics/getting_started/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Quickstart with CryptoXpress"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/github_deploy/latest/basics/getting_started/overview"
+  },
+  "next": {
+    "title": "Import Existing Wallet",
+    "permalink": "/github_deploy/latest/basics/getting_started/import_wallet"
+  }
+}

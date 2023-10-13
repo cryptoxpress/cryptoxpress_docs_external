@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/getting_started/overview",
+  "id": "basics/getting_started/overview",
+  "title": "Getting Started with CryptoXpress",
+  "description": "The CryptoXpress application offers a wide array of features, including cryptocurrency trading, staking, flight and hotel booking, NFT purchases, and effortless fund transfers to family and friends, all with just a few taps..",
+  "source": "@site/docs/basics/getting_started/overview.md",
+  "sourceDirName": "basics/getting_started",
+  "slug": "/basics/getting_started/overview",
+  "permalink": "/latest/basics/getting_started/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/latest/category/getting-started"
+  },
+  "next": {
+    "title": "Quickstart with CryptoXpress",
+    "permalink": "/latest/basics/getting_started/intro"
+  }
+}

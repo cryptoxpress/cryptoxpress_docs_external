@@ -1,0 +1,15 @@
+{
+  "title": "User Guide",
+  "slug": "/category/user-guide",
+  "permalink": "/github_deploy/latest/category/user-guide",
+  "navigation": {
+    "previous": {
+      "title": "Adding Beneficiaries",
+      "permalink": "/github_deploy/latest/basics/getting_started/beneficiary"
+    },
+    "next": {
+      "title": "Account",
+      "permalink": "/github_deploy/latest/category/account"
+    }
+  }
+}

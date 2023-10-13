@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/coins/watchlist",
+  "id": "trading/coins/watchlist",
+  "title": "How to save Coin to Watchlist ?",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+  "source": "@site/docs/trading/coins/watchlist.md",
+  "sourceDirName": "trading/coins",
+  "slug": "/trading/coins/watchlist",
+  "permalink": "/github_deploy/latest/trading/coins/watchlist",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "How to save Coin to Watchlist ?",
+    "sidebar_label": "Watchlist Section",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Information Section",
+    "permalink": "/github_deploy/latest/trading/coins/info"
+  },
+  "next": {
+    "title": "Spot Trading",
+    "permalink": "/github_deploy/latest/category/spot-trading"
+  }
+}

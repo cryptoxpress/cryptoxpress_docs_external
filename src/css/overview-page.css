@@ -1,0 +1,16 @@
+.overview-header {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    margin-top: 1rem;
+    margin-bottom: 20px;
+    padding-bottom: 3rem;
+    border-bottom: solid 1px var(--ifm-color-emphasis-200);
+}
+
+.overview-header iframe {
+    aspect-ratio: 1.7777777778;
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}

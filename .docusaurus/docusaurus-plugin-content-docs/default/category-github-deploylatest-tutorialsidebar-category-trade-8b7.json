@@ -1,0 +1,15 @@
+{
+  "title": "Trade",
+  "slug": "/category/trade",
+  "permalink": "/github_deploy/latest/category/trade",
+  "navigation": {
+    "previous": {
+      "title": "Wallet",
+      "permalink": "/github_deploy/latest/user-guides/wallets"
+    },
+    "next": {
+      "title": "Spot Trading",
+      "permalink": "/github_deploy/latest/user-guides/trade/spot_trade"
+    }
+  }
+}

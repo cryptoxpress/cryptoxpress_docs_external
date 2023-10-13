@@ -1,0 +1,15 @@
+{
+  "title": "Futures Trading",
+  "slug": "/category/futures-trading",
+  "permalink": "/github_deploy/latest/category/futures-trading",
+  "navigation": {
+    "previous": {
+      "title": "Trading fees",
+      "permalink": "/github_deploy/latest/trading/spot_trading/charges"
+    },
+    "next": {
+      "title": "Trading Guide",
+      "permalink": "/github_deploy/latest/trading/futures_trading/future_trade"
+    }
+  }
+}

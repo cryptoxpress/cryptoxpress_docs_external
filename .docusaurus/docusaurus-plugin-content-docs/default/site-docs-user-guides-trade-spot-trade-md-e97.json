@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/trade/spot_trade",
+  "id": "user-guides/trade/spot_trade",
+  "title": "Spot Trading",
+  "description": "Overview",
+  "source": "@site/docs/user-guides/trade/spot_trade.md",
+  "sourceDirName": "user-guides/trade",
+  "slug": "/user-guides/trade/spot_trade",
+  "permalink": "/github_deploy/latest/user-guides/trade/spot_trade",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Spot Trading",
+    "sidebar_label": "Spot Trading",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trade",
+    "permalink": "/github_deploy/latest/category/trade"
+  },
+  "next": {
+    "title": "Vouchers",
+    "permalink": "/github_deploy/latest/user-guides/gift_card"
+  }
+}

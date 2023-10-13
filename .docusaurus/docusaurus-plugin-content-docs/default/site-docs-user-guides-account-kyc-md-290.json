@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/account/kyc",
+  "id": "user-guides/account/kyc",
+  "title": "KYC Account Verification",
+  "description": "To fully harness the capabilities of Cryptoxpress and access all the features offered by the app, users are required to undergo the KYC (Know Your Customer) verification process. This essential step can be completed during the initial account creation or at any time when users feel the need to enhance their account's functionality. Once completed, it unlocks a host of features, including seamless trading, the ability to make payments, hassle-free fund transfers, and much more.",
+  "source": "@site/docs/user-guides/account/kyc.md",
+  "sourceDirName": "user-guides/account",
+  "slug": "/user-guides/account/kyc",
+  "permalink": "/github_deploy/latest/user-guides/account/kyc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "KYC Account Verification",
+    "sidebar_label": "KYC Verification",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Account",
+    "permalink": "/github_deploy/latest/category/account"
+  },
+  "next": {
+    "title": "Delete Account",
+    "permalink": "/github_deploy/latest/user-guides/account/delete_account"
+  }
+}

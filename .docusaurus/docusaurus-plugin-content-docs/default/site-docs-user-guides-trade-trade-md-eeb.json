@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/trade/trade",
+  "id": "user-guides/trade/trade",
+  "title": "Trading",
+  "description": "CryptoXpress Wallet is a cryptocurrency wallet that simplifies interaction with CryptoXpress Application on the Binance smart Chain (BSC)",
+  "source": "@site/docs/user-guides/trade/trade.md",
+  "sourceDirName": "user-guides/trade",
+  "slug": "/user-guides/trade/",
+  "permalink": "/latest/user-guides/trade/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Trading",
+    "sidebar_label": "Spot Trading",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trade",
+    "permalink": "/latest/category/trade"
+  },
+  "next": {
+    "title": "Security Management",
+    "permalink": "/latest/category/security-management"
+  }
+}

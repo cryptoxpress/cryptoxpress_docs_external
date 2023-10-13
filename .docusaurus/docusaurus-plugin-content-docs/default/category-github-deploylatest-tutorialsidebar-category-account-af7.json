@@ -1,0 +1,15 @@
+{
+  "title": "Account",
+  "slug": "/category/account",
+  "permalink": "/github_deploy/latest/category/account",
+  "navigation": {
+    "previous": {
+      "title": "User Guide",
+      "permalink": "/github_deploy/latest/category/user-guide"
+    },
+    "next": {
+      "title": "KYC Verification",
+      "permalink": "/github_deploy/latest/user-guides/account/kyc"
+    }
+  }
+}

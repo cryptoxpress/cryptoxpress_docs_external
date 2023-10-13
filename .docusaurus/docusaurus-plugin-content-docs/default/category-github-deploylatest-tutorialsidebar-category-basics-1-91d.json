@@ -1,0 +1,15 @@
+{
+  "title": "Basics",
+  "slug": "/category/basics-1",
+  "permalink": "/github_deploy/latest/category/basics-1",
+  "navigation": {
+    "previous": {
+      "title": "Import Existing Wallet",
+      "permalink": "/github_deploy/latest/basics/getting_started/import_wallet"
+    },
+    "next": {
+      "title": "Spot Trading",
+      "permalink": "/github_deploy/latest/trading/spot_trade"
+    }
+  }
+}

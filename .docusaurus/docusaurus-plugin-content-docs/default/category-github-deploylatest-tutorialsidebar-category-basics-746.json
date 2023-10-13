@@ -1,0 +1,12 @@
+{
+  "title": "Basics",
+  "description": "Get Started with CryptoXpress by going to the Guide in less than 5 min !",
+  "slug": "/category/basics",
+  "permalink": "/github_deploy/latest/category/basics",
+  "navigation": {
+    "next": {
+      "title": "Introduction",
+      "permalink": "/github_deploy/latest/basics/introduction"
+    }
+  }
+}

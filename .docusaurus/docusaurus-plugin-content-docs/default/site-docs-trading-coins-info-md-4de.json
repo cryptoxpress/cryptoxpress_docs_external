@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/coins/info",
+  "id": "trading/coins/info",
+  "title": "How to see Coin Information in App ?",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+  "source": "@site/docs/trading/coins/info.md",
+  "sourceDirName": "trading/coins",
+  "slug": "/trading/coins/info",
+  "permalink": "/github_deploy/latest/trading/coins/info",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "How to see Coin Information in App ?",
+    "sidebar_label": "Information Section",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "News Section",
+    "permalink": "/github_deploy/latest/trading/coins/news"
+  },
+  "next": {
+    "title": "Watchlist Section",
+    "permalink": "/github_deploy/latest/trading/coins/watchlist"
+  }
+}

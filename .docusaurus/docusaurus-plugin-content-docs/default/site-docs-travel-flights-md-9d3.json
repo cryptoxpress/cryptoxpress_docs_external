@@ -1,0 +1,28 @@
+{
+  "unversionedId": "travel/flights",
+  "id": "travel/flights",
+  "title": "Sky Journey",
+  "description": "Overview",
+  "source": "@site/docs/travel/flights.md",
+  "sourceDirName": "travel",
+  "slug": "/travel/flights",
+  "permalink": "/github_deploy/latest/travel/flights",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Sky Journey",
+    "sidebar_label": "Sky Journey",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Explore the World",
+    "permalink": "/github_deploy/latest/category/explore-the-world"
+  },
+  "next": {
+    "title": "Hospitality Hub",
+    "permalink": "/github_deploy/latest/travel/hotels"
+  }
+}

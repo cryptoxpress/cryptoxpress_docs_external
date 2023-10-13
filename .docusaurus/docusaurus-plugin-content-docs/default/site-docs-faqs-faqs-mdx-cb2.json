@@ -1,0 +1,22 @@
+{
+  "unversionedId": "faqs/faqs",
+  "id": "faqs/faqs",
+  "title": "FAQ's",
+  "description": "Popular Topics",
+  "source": "@site/docs/faqs/faqs.mdx",
+  "sourceDirName": "faqs",
+  "slug": "/faqs/",
+  "permalink": "/github_deploy/latest/faqs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "FAQ's",
+    "title": "FAQ's"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ's",
+    "permalink": "/github_deploy/latest/category/faqs"
+  }
+}

@@ -1,0 +1,348 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 100 900;
+  font-display: block;
+  font-style: normal;
+  font-named-instance: Regular;
+  src: url(/assets/Inter.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 100 900;
+  font-display: block;
+  font-style: italic;
+  font-named-instance: 'Italic';
+  src: url(/assets/Inter-italic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: fallback;
+  src: url(/assets/PlusJakartaSans-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: italic;
+  font-weight: 200 800;
+  font-display: fallback;
+  src: url(/assets/PlusJakartaSans-italic.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url(/assets/FiraCode.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+
+body {
+  @apply font-sans antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  @apply font-jakarta;
+}
+
+:root {
+  --docs-color-primary: #2160fd;
+  /* --docs-color-primary-100: #1a90ff; */
+  --docs-color-primary-tint: rgba(33, 96, 253, 0.16);
+  --docs-color-primary-tint-light: rgba(33 96 253/0.24);
+
+  --docs-color-border: #dadde1;
+
+  --docs-color-text: #000000;
+  --docs-color-text-100: #646464;
+
+  --docs-color-background: #ffffff;
+  --docs-color-background-100: #f8f8f8;
+  --docs-color-background-200: #efefef;
+  --docs-color-background-300: #dcdcdc;
+
+  /* Color from prism themes */
+  --docs-color-code-background: #f6f8fa;
+
+  --docs-color-android: #44db85;
+  --docs-color-apple: var(--docs-color-text) !important;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --docs-color-border: #2e2e2e;
+
+  --docs-color-text: #ffffff;
+  --docs-color-text-100: #b4b4b4;
+
+  --docs-color-background: #161616;
+  --docs-color-background-100: #1c1c1c;
+  --docs-color-background-200: #2a2a2a;
+  --docs-color-background-300: #2e2e2e;
+
+  --docs-color-code-background: #1e1e1e;
+}
+
+:root {
+  /* Default values */
+
+  --ifm-spacing-horizontal: 1.5rem;
+  --ifm-navbar-padding-horizontal: 0.75rem;
+
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, Segoe UI, Roboto,
+    Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, 'Segoe UI',
+    Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
+
+  --ifm-font-family-monospace: 'Fira Code', SFMono-Regular, Menlo, Monaco,
+    Consolas, 'Liberation Mono', 'Courier New', monospace;
+
+  /* Theme colors */
+  --ifm-color-primary: #2160fd;
+  --ifm-color-primary-dark: #1959fc;
+  --ifm-color-primary-darker: #0f51f8;
+  --ifm-color-primary-darkest: #0042e7;
+  --ifm-color-primary-light: #3d72f8;
+  --ifm-color-primary-lighter: #477af8;
+  --ifm-color-primary-lightest: #6791fc;
+
+  --ifm-navbar-shadow: none;
+  --ifm-toc-border-color: #dedede;
+
+  --ifm-table-border-color: var(--docs-color-border);
+  --code-border-color: var(--docs-color-border);
+
+  --ifm-code-font-size: 92%;
+  --docusaurus-highlighted-code-line-bg: rgba(147, 178, 244, 0.38);
+
+  --ifm-breadcrumb-item-background-active: transparent;
+  --ifm-breadcrumb-padding-horizontal: 0;
+}
+
+html[data-theme='dark'] {
+  --ifm-link-color: #1a90ff;
+  --ifm-tabs-color-active-border: #1a90ff;
+  --ifm-tabs-color-active: #1a90ff;
+
+  --ifm-color-primary: #1a90ff;
+
+  --ifm-footer-background-color: #1c1c1c;
+  --ifm-background-surface-color: #161616;
+  --ifm-background-color: #161616;
+  --ifm-toc-border-color: #2e2e2e;
+
+  --ifm-color-content: #e7e7e7;
+
+  --docusaurus-highlighted-code-line-bg: rgba(105, 105, 105, 0.3);
+  --ifm-card-background-color: var(--color-gray-82);
+}
+
+.tutorial_sidebar_header > div > a::before {
+  @apply mt-1 mr-2;
+  content: url(/static/img/graduation-hat-svgrepo-com.svg);
+}
+
+.faq_sidebar_header > div > a::before {
+  @apply mt-1 mr-2;
+  content: url(/static/img/album-collection-svgrepo-com.svg);
+}
+
+.guide_sidebar_header > div > a::before {
+  @apply mt-1 mr-2;
+  content: url(/static/img/book-section-svgrepo-com.svg);
+}
+
+.travel_sidebar_header > div > a::before {
+  @apply mt-1 mr-2;
+  content: url(/static/img/circle-location-arrow-svgrepo-com.svg);
+}
+
+.trading_sidebar_header > div > a::before {
+  @apply mt-1 mr-2;
+  content: url(/static/img/bitcoin-circle-svgrepo-com.svg);
+}
+
+
+html[data-theme='light'] .navbar_logo {
+  filter: invert(1);
+}
+
+html[data-theme='dark'] .travel_sidebar_header > div > a::before {
+  filter: invert(1);
+}
+
+html[data-theme='dark'] .guide_sidebar_header > div > a::before {
+  filter: invert(1);
+}
+
+html[data-theme='dark'] .faq_sidebar_header > div > a::before {
+  filter: invert(1);
+}
+
+html[data-theme='dark'] .tutorial_sidebar_header > div > a::before {
+  filter: invert(1);
+}
+
+html[data-theme='dark'] .trading_sidebar_header > div > a::before {
+  filter: invert(1);
+}
+
+
+
+
+
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 20px;
+}
+
+.front-matter {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
+  grid-column: -1;
+}
+
+.front-matter iframe {
+  aspect-ratio: 1.7777777778;
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+@media (max-width: 1200px) {
+  .front-matter {
+    grid-template-columns: 1fr;
+ }
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f8f8f8;
+  -webkit-box-shadow: 10px 11px 5px -3px rgba(0,0,0,0.12);
+  -moz-box-shadow: 10px 11px 5px -3px rgba(0,0,0,0.12);
+  box-shadow: 10px 11px 5px -3px rgba(0,0,0,0.12);
+}
+
+.card_faq {
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+html[data-theme='dark'] .card{
+  background-color: #2a2a2a;
+}
+
+.card h4 {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  margin: 0;
+}
+.card a {
+  margin-left: auto;
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+}
+.card:hover .arrow {
+  transform: translateX(5px);
+}
+
+.card-header {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.navbar-links {
+  font-weight: 600;
+  font-size: large;
+}
+
+.navbar-links:hover{
+  /* transition: all 0.5s ease; */
+  /* text-decoration: underline 3px; */
+  border-bottom: 2px solid #0f51f8;
+}
+
+.blog_cards{
+  background-color: #f8f8f8;
+  -webkit-box-shadow: 10px 11px 5px -3px rgba(0,0,0,0.12);
+  -moz-box-shadow: 10px 11px 5px -3px rgba(0,0,0,0.12);
+  box-shadow: 10px 11px 5px -3px rgba(0,0,0,0.12);
+}
+
+html[data-theme='dark'] .blog_cards{
+  background-color: #2a2a2a;
+  color: #b4b4b4;
+}
+
+html[data-theme='dark'] .blog_card_title{
+  color: #dadde1;
+}
+
+
+.footer-page {
+  background-color: #f8f8f8;
+}
+
+html[data-theme='dark'] .footer-page {
+  background-color: #2a2a2a;
+  color: #dadde1;
+}
+
+
+html[data-theme='light'] .footer_logo {
+  filter: invert(1);
+}
+
+.container {
+  display : flex;
+}
+
+.para-break {
+  background-color: #646464;
+}
+
+html[data-theme='light'] .para-break {
+  background-color: #eceaea;
+}

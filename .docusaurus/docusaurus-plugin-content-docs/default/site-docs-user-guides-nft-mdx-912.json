@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/nft",
+  "id": "user-guides/nft",
+  "title": "NFT's",
+  "description": "CryptoXpress  not only provides its core services but also offers added convenience through the CryptoXpress Shop Section. Here, users can easily purchase gift cards using cryptocurrency payments, all made possible with the assistance of Xoxoday.",
+  "source": "@site/docs/user-guides/nft.mdx",
+  "sourceDirName": "user-guides",
+  "slug": "/user-guides/nft",
+  "permalink": "/github_deploy/latest/user-guides/nft",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "NFT's",
+    "title": "NFT's",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vouchers",
+    "permalink": "/github_deploy/latest/user-guides/gift_card"
+  },
+  "next": {
+    "title": "Security Management",
+    "permalink": "/github_deploy/latest/category/security-management"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/futures_trading/charges",
+  "id": "trading/futures_trading/charges",
+  "title": "What is CryptoXpress Futures Trading fees and How to Calculate ?",
+  "description": "The CryptoXpress Application also offers a Futures trading feature, allowing users to engage with contracts between investors betting on a cryptocurrency future price.",
+  "source": "@site/docs/trading/futures_trading/charges.md",
+  "sourceDirName": "trading/futures_trading",
+  "slug": "/trading/futures_trading/charges",
+  "permalink": "/github_deploy/latest/trading/futures_trading/charges",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "What is CryptoXpress Futures Trading fees and How to Calculate ?",
+    "sidebar_label": "Trading fees",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Order Types",
+    "permalink": "/github_deploy/latest/trading/futures_trading/orders"
+  },
+  "next": {
+    "title": "Transaction History",
+    "permalink": "/github_deploy/latest/trading/transaction_history"
+  }
+}

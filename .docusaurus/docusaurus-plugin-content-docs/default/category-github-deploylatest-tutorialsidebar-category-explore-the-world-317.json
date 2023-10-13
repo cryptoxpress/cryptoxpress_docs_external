@@ -1,0 +1,15 @@
+{
+  "title": "Explore the World",
+  "slug": "/category/explore-the-world",
+  "permalink": "/github_deploy/latest/category/explore-the-world",
+  "navigation": {
+    "previous": {
+      "title": "Transfer Funds",
+      "permalink": "/github_deploy/latest/trading/transfer"
+    },
+    "next": {
+      "title": "Sky Journey",
+      "permalink": "/github_deploy/latest/travel/flights"
+    }
+  }
+}

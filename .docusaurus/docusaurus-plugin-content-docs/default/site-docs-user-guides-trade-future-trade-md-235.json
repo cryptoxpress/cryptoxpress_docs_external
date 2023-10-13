@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/trade/future_trade",
+  "id": "user-guides/trade/future_trade",
+  "title": "Future Trading",
+  "description": "Overview",
+  "source": "@site/docs/user-guides/trade/future_trade.md",
+  "sourceDirName": "user-guides/trade",
+  "slug": "/user-guides/trade/future_trade",
+  "permalink": "/github_deploy/latest/user-guides/trade/future_trade",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Future Trading",
+    "sidebar_label": "Future Trading",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spot Trading",
+    "permalink": "/github_deploy/latest/user-guides/trade/spot_trade"
+  },
+  "next": {
+    "title": "Vouchers",
+    "permalink": "/github_deploy/latest/user-guides/gift_card"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "label": "Basics",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Get Started with CryptoXpress by going to the Guide in less than 5 min !"
+    },
+    "className":"tutorial_sidebar_header"
+  }
+  

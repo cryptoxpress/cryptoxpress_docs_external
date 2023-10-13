@@ -1,0 +1,16 @@
+{
+  "title": "Travel",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/travel",
+  "permalink": "/latest/category/travel",
+  "navigation": {
+    "previous": {
+      "title": "Two-Factor Authentication",
+      "permalink": "/latest/user-guides/2fa/"
+    },
+    "next": {
+      "title": "Flights",
+      "permalink": "/latest/travel/flights"
+    }
+  }
+}

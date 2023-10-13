@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/wallets",
+  "id": "user-guides/wallets",
+  "title": "Wallet",
+  "description": "CryptoXpress Wallet is a cryptocurrency wallet that simplifies interaction with CryptoXpress Application on the Binance smart Chain (BSC)",
+  "source": "@site/docs/user-guides/wallets.md",
+  "sourceDirName": "user-guides",
+  "slug": "/user-guides/wallets",
+  "permalink": "/github_deploy/latest/user-guides/wallets",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Wallet",
+    "sidebar_label": "Wallet",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Account",
+    "permalink": "/github_deploy/latest/user-guides/account/delete_account"
+  },
+  "next": {
+    "title": "Vouchers",
+    "permalink": "/github_deploy/latest/user-guides/gift_card"
+  }
+}

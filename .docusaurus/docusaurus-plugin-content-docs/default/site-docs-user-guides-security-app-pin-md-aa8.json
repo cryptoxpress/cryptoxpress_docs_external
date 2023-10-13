@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/security/app_pin",
+  "id": "user-guides/security/app_pin",
+  "title": "App Pin",
+  "description": "App pin Authentication is a security method commonly used in mobile applications and other digital platforms to enhance user privacy and protect sensitive data. This method involves users setting up a unique PIN that is required to access the application. CryptoXpress application provide two ways to access the application i.e via typing the 4-digit PIN or verify the users's via his/her Biometeric's (provided during setup)",
+  "source": "@site/docs/user-guides/security/app_pin.md",
+  "sourceDirName": "user-guides/security",
+  "slug": "/user-guides/security/app_pin",
+  "permalink": "/github_deploy/latest/user-guides/security/app_pin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "App Pin",
+    "sidebar_label": "App Pin",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Management",
+    "permalink": "/github_deploy/latest/category/security-management"
+  },
+  "next": {
+    "title": "Two-Factor Authentication",
+    "permalink": "/github_deploy/latest/user-guides/security/2fa"
+  }
+}

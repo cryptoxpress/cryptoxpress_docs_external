@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/transfer",
+  "id": "trading/transfer",
+  "title": "How to Transfer Funds b/w Futures and Spot ?",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+  "source": "@site/docs/trading/transfer.md",
+  "sourceDirName": "trading",
+  "slug": "/trading/transfer",
+  "permalink": "/github_deploy/latest/trading/transfer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "How to Transfer Funds b/w Futures and Spot ?",
+    "sidebar_label": "Transfer Funds",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transaction History",
+    "permalink": "/github_deploy/latest/trading/transaction_history"
+  },
+  "next": {
+    "title": "Explore the World",
+    "permalink": "/github_deploy/latest/category/explore-the-world"
+  }
+}

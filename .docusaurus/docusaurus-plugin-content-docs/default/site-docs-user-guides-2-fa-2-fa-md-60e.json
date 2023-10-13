@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/2fa/2fa",
+  "id": "user-guides/2fa/2fa",
+  "title": "Two-factor Authentication",
+  "description": "Two-factor Authentication is a way of verifying a user’s identity by using a combination of two different verification methods. It adds an extra layer of security, thereby ensuring that only authorized user(s) can access an account, even if the password has been compromised.",
+  "source": "@site/docs/user-guides/2fa/2fa.md",
+  "sourceDirName": "user-guides/2fa",
+  "slug": "/user-guides/2fa/",
+  "permalink": "/github_deploy/latest/user-guides/2fa/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Two-factor Authentication",
+    "sidebar_label": "Two-Factor Authentication",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Management",
+    "permalink": "/github_deploy/latest/category/security-management"
+  },
+  "next": {
+    "title": "Explore the World",
+    "permalink": "/github_deploy/latest/category/explore-the-world"
+  }
+}

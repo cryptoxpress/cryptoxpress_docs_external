@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "CryptoXpress Beginner's Guide",
+  "description": "Let's discover CryptoXpress ! Kickstart your Journey in less than 5 minutes.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/latest/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Getting Started"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/latest/basics/introduction"
+  },
+  "next": {
+    "title": "Tutorial",
+    "permalink": "/latest/category/tutorial"
+  }
+}

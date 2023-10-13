@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/spot_trade",
+  "id": "trading/spot_trade",
+  "title": "Spot Trading",
+  "description": "Overview",
+  "source": "@site/docs/trading/spot_trade.md",
+  "sourceDirName": "trading",
+  "slug": "/trading/spot_trade",
+  "permalink": "/github_deploy/latest/trading/spot_trade",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Spot Trading",
+    "sidebar_label": "Spot Trading",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Watchlist Section",
+    "permalink": "/github_deploy/latest/trading/coins/watchlist"
+  },
+  "next": {
+    "title": "Future Trading",
+    "permalink": "/github_deploy/latest/trading/future_trade"
+  }
+}

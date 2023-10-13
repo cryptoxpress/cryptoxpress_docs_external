@@ -1,0 +1,28 @@
+{
+  "unversionedId": "travel/hotels",
+  "id": "travel/hotels",
+  "title": "Hospitality Hub",
+  "description": "Overview",
+  "source": "@site/docs/travel/hotels.md",
+  "sourceDirName": "travel",
+  "slug": "/travel/hotels",
+  "permalink": "/github_deploy/latest/travel/hotels",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Hospitality Hub",
+    "sidebar_label": "Hospitality Hub",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sky Journey",
+    "permalink": "/github_deploy/latest/travel/flights"
+  },
+  "next": {
+    "title": "FAQ's",
+    "permalink": "/github_deploy/latest/category/faqs"
+  }
+}

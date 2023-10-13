@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptoxpress_docs_external=self.webpackChunkcryptoxpress_docs_external||[]).push([[957],{2967:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/github_deploy/blog/tags/facebook","allTagsPath":"/github_deploy/blog/tags","count":1}')}}]);

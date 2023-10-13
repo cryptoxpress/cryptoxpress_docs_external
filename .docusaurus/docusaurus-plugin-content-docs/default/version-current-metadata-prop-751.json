@@ -1,0 +1,444 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "v2.x",
+  "banner": null,
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "tutorial_sidebar_header",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/github_deploy/latest/basics/introduction",
+            "docId": "basics/introduction"
+          },
+          {
+            "type": "category",
+            "label": "Getting Started",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/github_deploy/latest/basics/getting_started/overview",
+                "docId": "basics/getting_started/overview"
+              },
+              {
+                "type": "link",
+                "label": "Quickstart with CryptoXpress",
+                "href": "/github_deploy/latest/basics/getting_started/intro",
+                "docId": "basics/getting_started/intro"
+              },
+              {
+                "type": "link",
+                "label": "Import Existing Wallet",
+                "href": "/github_deploy/latest/basics/getting_started/import_wallet",
+                "docId": "basics/getting_started/import_wallet"
+              },
+              {
+                "type": "link",
+                "label": "Adding Beneficiaries",
+                "href": "/github_deploy/latest/basics/getting_started/beneficiary",
+                "docId": "basics/getting_started/beneficiary"
+              }
+            ],
+            "href": "/github_deploy/latest/category/getting-started"
+          }
+        ],
+        "href": "/github_deploy/latest/category/basics"
+      },
+      {
+        "type": "category",
+        "label": "User Guide",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "guide_sidebar_header",
+        "items": [
+          {
+            "type": "category",
+            "label": "Account",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "KYC Verification",
+                "href": "/github_deploy/latest/user-guides/account/kyc",
+                "docId": "user-guides/account/kyc"
+              },
+              {
+                "type": "link",
+                "label": "Delete Account",
+                "href": "/github_deploy/latest/user-guides/account/delete_account",
+                "docId": "user-guides/account/delete_account"
+              }
+            ],
+            "href": "/github_deploy/latest/category/account"
+          },
+          {
+            "type": "link",
+            "label": "Wallet",
+            "href": "/github_deploy/latest/user-guides/wallets",
+            "docId": "user-guides/wallets"
+          },
+          {
+            "type": "link",
+            "label": "Vouchers",
+            "href": "/github_deploy/latest/user-guides/gift_card",
+            "docId": "user-guides/gift_card"
+          },
+          {
+            "type": "link",
+            "label": "NFT's",
+            "href": "/github_deploy/latest/user-guides/nft",
+            "docId": "user-guides/nft"
+          },
+          {
+            "type": "category",
+            "label": "Security Management",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "App Pin",
+                "href": "/github_deploy/latest/user-guides/security/app_pin",
+                "docId": "user-guides/security/app_pin"
+              },
+              {
+                "type": "link",
+                "label": "Two-Factor Authentication",
+                "href": "/github_deploy/latest/user-guides/security/2fa",
+                "docId": "user-guides/security/2fa"
+              }
+            ],
+            "href": "/github_deploy/latest/category/security-management"
+          }
+        ],
+        "href": "/github_deploy/latest/category/user-guide"
+      },
+      {
+        "type": "category",
+        "label": "Trading",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "trading_sidebar_header",
+        "items": [
+          {
+            "type": "category",
+            "label": "Coins",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/github_deploy/latest/trading/coins/",
+                "docId": "trading/coins/coins"
+              },
+              {
+                "type": "link",
+                "label": "News Section",
+                "href": "/github_deploy/latest/trading/coins/news",
+                "docId": "trading/coins/news"
+              },
+              {
+                "type": "link",
+                "label": "Information Section",
+                "href": "/github_deploy/latest/trading/coins/info",
+                "docId": "trading/coins/info"
+              },
+              {
+                "type": "link",
+                "label": "Watchlist Section",
+                "href": "/github_deploy/latest/trading/coins/watchlist",
+                "docId": "trading/coins/watchlist"
+              }
+            ],
+            "href": "/github_deploy/latest/category/coins"
+          },
+          {
+            "type": "category",
+            "label": "Spot Trading",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Trading Guide",
+                "href": "/github_deploy/latest/trading/spot_trading/spot_trade",
+                "docId": "trading/spot_trading/spot_trade"
+              },
+              {
+                "type": "link",
+                "label": "Order Types",
+                "href": "/github_deploy/latest/trading/spot_trading/orders",
+                "docId": "trading/spot_trading/orders"
+              },
+              {
+                "type": "link",
+                "label": "Trading fees",
+                "href": "/github_deploy/latest/trading/spot_trading/charges",
+                "docId": "trading/spot_trading/charges"
+              }
+            ],
+            "href": "/github_deploy/latest/category/spot-trading"
+          },
+          {
+            "type": "category",
+            "label": "Futures Trading",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Trading Guide",
+                "href": "/github_deploy/latest/trading/futures_trading/future_trade",
+                "docId": "trading/futures_trading/future_trade"
+              },
+              {
+                "type": "link",
+                "label": "Order Types",
+                "href": "/github_deploy/latest/trading/futures_trading/orders",
+                "docId": "trading/futures_trading/orders"
+              },
+              {
+                "type": "link",
+                "label": "Trading fees",
+                "href": "/github_deploy/latest/trading/futures_trading/charges",
+                "docId": "trading/futures_trading/charges"
+              }
+            ],
+            "href": "/github_deploy/latest/category/futures-trading"
+          },
+          {
+            "type": "link",
+            "label": "Transaction History",
+            "href": "/github_deploy/latest/trading/transaction_history",
+            "docId": "trading/transaction_history"
+          },
+          {
+            "type": "link",
+            "label": "Transfer Funds",
+            "href": "/github_deploy/latest/trading/transfer",
+            "docId": "trading/transfer"
+          }
+        ],
+        "href": "/github_deploy/latest/category/trading"
+      },
+      {
+        "type": "category",
+        "label": "Explore the World",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "travel_sidebar_header",
+        "items": [
+          {
+            "type": "link",
+            "label": "Sky Journey",
+            "href": "/github_deploy/latest/travel/flights",
+            "docId": "travel/flights"
+          },
+          {
+            "type": "link",
+            "label": "Hospitality Hub",
+            "href": "/github_deploy/latest/travel/hotels",
+            "docId": "travel/hotels"
+          }
+        ],
+        "href": "/github_deploy/latest/category/explore-the-world"
+      },
+      {
+        "type": "category",
+        "label": "FAQ's",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "faq_sidebar_header",
+        "items": [
+          {
+            "type": "link",
+            "label": "FAQ's",
+            "href": "/github_deploy/latest/faqs/",
+            "docId": "faqs/faqs"
+          }
+        ],
+        "href": "/github_deploy/latest/category/faqs"
+      }
+    ]
+  },
+  "docs": {
+    "basics/getting_started/beneficiary": {
+      "id": "basics/getting_started/beneficiary",
+      "title": "How to add Beneficiaries ?",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/getting_started/import_wallet": {
+      "id": "basics/getting_started/import_wallet",
+      "title": "Import Your Existing Wallet",
+      "description": "You can also import your existing Wallet from other apps to CryptoXpress.",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/getting_started/intro": {
+      "id": "basics/getting_started/intro",
+      "title": "CryptoXpress Beginner's Guide",
+      "description": "Let's discover CryptoXpress ! Kickstart your Journey in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/getting_started/overview": {
+      "id": "basics/getting_started/overview",
+      "title": "Getting Started with CryptoXpress",
+      "description": "The CryptoXpress application offers a wide array of features, including cryptocurrency trading, staking, flight and hotel booking, NFT purchases, and effortless fund transfers to family and friends, all with just a few taps.",
+      "sidebar": "tutorialSidebar"
+    },
+    "basics/introduction": {
+      "id": "basics/introduction",
+      "title": "CryptoXpress Documentation",
+      "description": "CryptoXpress simplifies your Crypto and Blockchain experience, providing instant access to core features like Trading, NFTs, and Wallets through its application. So you can spend your time wisely, focusing on what matters most, with the convenience of CryptoXpress.",
+      "sidebar": "tutorialSidebar"
+    },
+    "faqs/faqs": {
+      "id": "faqs/faqs",
+      "title": "FAQ's",
+      "description": "Popular Topics",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/coins/coins": {
+      "id": "trading/coins/coins",
+      "title": "Overview",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/coins/info": {
+      "id": "trading/coins/info",
+      "title": "How to see Coin Information in App ?",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/coins/news": {
+      "id": "trading/coins/news",
+      "title": "How to see Coin News in App ?",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/coins/watchlist": {
+      "id": "trading/coins/watchlist",
+      "title": "How to save Coin to Watchlist ?",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/futures_trading/charges": {
+      "id": "trading/futures_trading/charges",
+      "title": "What is CryptoXpress Futures Trading fees and How to Calculate ?",
+      "description": "The CryptoXpress Application also offers a Futures trading feature, allowing users to engage with contracts between investors betting on a cryptocurrency future price.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/futures_trading/future_trade": {
+      "id": "trading/futures_trading/future_trade",
+      "title": "Future Trading",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/futures_trading/orders": {
+      "id": "trading/futures_trading/orders",
+      "title": "Different Order Types",
+      "description": "The CryptoXpress Application also offers a Futures trading feature, allowing users to engage with contracts between investors betting on a cryptocurrency future price.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/spot_trading/charges": {
+      "id": "trading/spot_trading/charges",
+      "title": "What is CryptoXpress Spot Trading fees and How to Calculate ?",
+      "description": "The CryptoXpress Application also offers a spot trading feature, allowing users to engage in immediate cryptocurrency exchanges at current market rates.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/spot_trading/orders": {
+      "id": "trading/spot_trading/orders",
+      "title": "Different Order Types",
+      "description": "The CryptoXpress Application also offers a spot trading feature, allowing users to engage in immediate cryptocurrency exchanges at current market rates.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/spot_trading/spot_trade": {
+      "id": "trading/spot_trading/spot_trade",
+      "title": "How to Spot Trade on CryptoXpress ?",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/transaction_history": {
+      "id": "trading/transaction_history",
+      "title": "Transaction History",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+      "sidebar": "tutorialSidebar"
+    },
+    "trading/transfer": {
+      "id": "trading/transfer",
+      "title": "How to Transfer Funds b/w Futures and Spot ?",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "travel/flights": {
+      "id": "travel/flights",
+      "title": "Sky Journey",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "travel/hotels": {
+      "id": "travel/hotels",
+      "title": "Hospitality Hub",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/account/delete_account": {
+      "id": "user-guides/account/delete_account",
+      "title": "Remove Account",
+      "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/account/kyc": {
+      "id": "user-guides/account/kyc",
+      "title": "KYC Account Verification",
+      "description": "To fully harness the capabilities of Cryptoxpress and access all the features offered by the app, users are required to undergo the KYC (Know Your Customer) verification process. This essential step can be completed during the initial account creation or at any time when users feel the need to enhance their account's functionality. Once completed, it unlocks a host of features, including seamless trading, the ability to make payments, hassle-free fund transfers, and much more.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/gift_card": {
+      "id": "user-guides/gift_card",
+      "title": "Gift Cards",
+      "description": "CryptoXpress  not only provides its core services but also offers added convenience through the CryptoXpress Shop Section. Here, users can easily purchase gift cards using cryptocurrency payments, all made possible with the assistance of Xoxoday.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/nft": {
+      "id": "user-guides/nft",
+      "title": "NFT's",
+      "description": "CryptoXpress  not only provides its core services but also offers added convenience through the CryptoXpress Shop Section. Here, users can easily purchase gift cards using cryptocurrency payments, all made possible with the assistance of Xoxoday.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/security/2fa": {
+      "id": "user-guides/security/2fa",
+      "title": "Two-factor Authentication",
+      "description": "Two-factor Authentication is a way of verifying a user’s identity by using a combination of two different verification methods. It adds an extra layer of security, thereby ensuring that only authorized user(s) can access an account, even if the password has been compromised.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/security/app_pin": {
+      "id": "user-guides/security/app_pin",
+      "title": "App Pin",
+      "description": "App pin Authentication is a security method commonly used in mobile applications and other digital platforms to enhance user privacy and protect sensitive data. This method involves users setting up a unique PIN that is required to access the application. CryptoXpress application provide two ways to access the application i.e via typing the 4-digit PIN or verify the users's via his/her Biometeric's (provided during setup)",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-guides/wallets": {
+      "id": "user-guides/wallets",
+      "title": "Wallet",
+      "description": "CryptoXpress Wallet is a cryptocurrency wallet that simplifies interaction with CryptoXpress Application on the Binance smart Chain (BSC)",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

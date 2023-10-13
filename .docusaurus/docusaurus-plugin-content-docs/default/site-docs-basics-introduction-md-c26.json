@@ -1,0 +1,28 @@
+{
+  "unversionedId": "basics/introduction",
+  "id": "basics/introduction",
+  "title": "CryptoXpress Documentation",
+  "description": "In addition to its core services like trade and NFT's, CryptoXpress offers the convenience of booking hotels having options for Domestic as well as International directly within the CryptoXpress App, all facilitated with cryptocurrency payments.",
+  "source": "@site/docs/basics/introduction.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/introduction",
+  "permalink": "/latest/basics/introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "CryptoXpress Documentation",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/latest/category/basics"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/latest/category/getting-started"
+  }
+}

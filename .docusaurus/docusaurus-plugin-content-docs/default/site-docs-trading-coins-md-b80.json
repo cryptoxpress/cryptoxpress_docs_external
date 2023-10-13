@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/coins",
+  "id": "trading/coins",
+  "title": "Coins",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of trading cryptocurrency using Crypto trading pairs as they allows user's to trade one cryptocurrency for another without exchanging either for fiat currency first using the CryptoXpress wallet.",
+  "source": "@site/docs/trading/coins.md",
+  "sourceDirName": "trading",
+  "slug": "/trading/coins",
+  "permalink": "/github_deploy/latest/trading/coins",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Coins",
+    "sidebar_label": "Coins",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading",
+    "permalink": "/github_deploy/latest/category/trading"
+  },
+  "next": {
+    "title": "Spot Trading",
+    "permalink": "/github_deploy/latest/trading/spot_trade"
+  }
+}

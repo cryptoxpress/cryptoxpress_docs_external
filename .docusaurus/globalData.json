@@ -1,0 +1,218 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/github_deploy/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "v2.x",
+          "isLast": true,
+          "path": "/github_deploy/latest",
+          "mainDocId": "basics/introduction",
+          "docs": [
+            {
+              "id": "basics/getting_started/beneficiary",
+              "path": "/github_deploy/latest/basics/getting_started/beneficiary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/getting_started/import_wallet",
+              "path": "/github_deploy/latest/basics/getting_started/import_wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/getting_started/intro",
+              "path": "/github_deploy/latest/basics/getting_started/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/getting_started/overview",
+              "path": "/github_deploy/latest/basics/getting_started/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "basics/introduction",
+              "path": "/github_deploy/latest/basics/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faqs/faqs",
+              "path": "/github_deploy/latest/faqs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/coins/coins",
+              "path": "/github_deploy/latest/trading/coins/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/coins/info",
+              "path": "/github_deploy/latest/trading/coins/info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/coins/news",
+              "path": "/github_deploy/latest/trading/coins/news",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/coins/watchlist",
+              "path": "/github_deploy/latest/trading/coins/watchlist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/futures_trading/charges",
+              "path": "/github_deploy/latest/trading/futures_trading/charges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/futures_trading/future_trade",
+              "path": "/github_deploy/latest/trading/futures_trading/future_trade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/futures_trading/orders",
+              "path": "/github_deploy/latest/trading/futures_trading/orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/spot_trading/charges",
+              "path": "/github_deploy/latest/trading/spot_trading/charges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/spot_trading/orders",
+              "path": "/github_deploy/latest/trading/spot_trading/orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/spot_trading/spot_trade",
+              "path": "/github_deploy/latest/trading/spot_trading/spot_trade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/transaction_history",
+              "path": "/github_deploy/latest/trading/transaction_history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trading/transfer",
+              "path": "/github_deploy/latest/trading/transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "travel/flights",
+              "path": "/github_deploy/latest/travel/flights",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "travel/hotels",
+              "path": "/github_deploy/latest/travel/hotels",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/account/delete_account",
+              "path": "/github_deploy/latest/user-guides/account/delete_account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/account/kyc",
+              "path": "/github_deploy/latest/user-guides/account/kyc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/gift_card",
+              "path": "/github_deploy/latest/user-guides/gift_card",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/nft",
+              "path": "/github_deploy/latest/user-guides/nft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/security/2fa",
+              "path": "/github_deploy/latest/user-guides/security/2fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/security/app_pin",
+              "path": "/github_deploy/latest/user-guides/security/app_pin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-guides/wallets",
+              "path": "/github_deploy/latest/user-guides/wallets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/basics",
+              "path": "/github_deploy/latest/category/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/github_deploy/latest/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/user-guide",
+              "path": "/github_deploy/latest/category/user-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/account",
+              "path": "/github_deploy/latest/category/account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/security-management",
+              "path": "/github_deploy/latest/category/security-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/trading",
+              "path": "/github_deploy/latest/category/trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/coins",
+              "path": "/github_deploy/latest/category/coins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/spot-trading",
+              "path": "/github_deploy/latest/category/spot-trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/futures-trading",
+              "path": "/github_deploy/latest/category/futures-trading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/explore-the-world",
+              "path": "/github_deploy/latest/category/explore-the-world",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/faqs",
+              "path": "/github_deploy/latest/category/faqs",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/github_deploy/latest/category/basics",
+                "label": "Basics"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

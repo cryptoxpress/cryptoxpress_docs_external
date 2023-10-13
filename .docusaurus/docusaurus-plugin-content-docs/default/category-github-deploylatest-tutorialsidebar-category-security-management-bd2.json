@@ -1,0 +1,15 @@
+{
+  "title": "Security Management",
+  "slug": "/category/security-management",
+  "permalink": "/github_deploy/latest/category/security-management",
+  "navigation": {
+    "previous": {
+      "title": "NFT's",
+      "permalink": "/github_deploy/latest/user-guides/nft"
+    },
+    "next": {
+      "title": "App Pin",
+      "permalink": "/github_deploy/latest/user-guides/security/app_pin"
+    }
+  }
+}

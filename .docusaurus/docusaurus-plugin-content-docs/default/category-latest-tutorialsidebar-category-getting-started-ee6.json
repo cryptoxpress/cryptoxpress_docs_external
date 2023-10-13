@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/latest/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/latest/basics/introduction"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/latest/basics/getting_started/overview"
+    }
+  }
+}

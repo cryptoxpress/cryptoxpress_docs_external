@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/account/delete_account",
+  "id": "user-guides/account/delete_account",
+  "title": "Remove Account",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+  "source": "@site/docs/user-guides/account/delete_account.md",
+  "sourceDirName": "user-guides/account",
+  "slug": "/user-guides/account/delete_account",
+  "permalink": "/github_deploy/latest/user-guides/account/delete_account",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Remove Account",
+    "sidebar_label": "Delete Account",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KYC Verification",
+    "permalink": "/github_deploy/latest/user-guides/account/kyc"
+  },
+  "next": {
+    "title": "Wallet",
+    "permalink": "/github_deploy/latest/user-guides/wallets"
+  }
+}

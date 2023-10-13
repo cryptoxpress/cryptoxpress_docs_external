@@ -1,0 +1,15 @@
+{
+  "title": "Trading",
+  "slug": "/category/trading",
+  "permalink": "/github_deploy/latest/category/trading",
+  "navigation": {
+    "previous": {
+      "title": "Two-Factor Authentication",
+      "permalink": "/github_deploy/latest/user-guides/security/2fa"
+    },
+    "next": {
+      "title": "Coins",
+      "permalink": "/github_deploy/latest/category/coins"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "user-guides/stake",
+  "id": "user-guides/stake",
+  "title": "Stacking",
+  "description": "",
+  "source": "@site/docs/user-guides/stake.md",
+  "sourceDirName": "user-guides",
+  "slug": "/user-guides/stake",
+  "permalink": "/latest/user-guides/stake",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Stacking",
+    "sidebar_label": "Stake",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wallet",
+    "permalink": "/latest/user-guides/wallets"
+  },
+  "next": {
+    "title": "Trade",
+    "permalink": "/latest/user-guides/trade"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Explore the World",
+  "slug": "/category/explore-the-world",
+  "permalink": "/latest/category/explore-the-world",
+  "navigation": {
+    "previous": {
+      "title": "Two-Factor Authentication",
+      "permalink": "/latest/user-guides/2fa/"
+    },
+    "next": {
+      "title": "Sky Journey",
+      "permalink": "/latest/travel/flights"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptoxpress_docs_external=self.webpackChunkcryptoxpress_docs_external||[]).push([[3622],{4844:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/github_deploy/blog/tags/hello","allTagsPath":"/github_deploy/blog/tags","count":2}')}}]);

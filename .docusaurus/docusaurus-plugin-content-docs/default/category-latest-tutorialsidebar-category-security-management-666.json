@@ -1,0 +1,15 @@
+{
+  "title": "Security Management",
+  "slug": "/category/security-management",
+  "permalink": "/latest/category/security-management",
+  "navigation": {
+    "previous": {
+      "title": "Future Trading",
+      "permalink": "/latest/user-guides/trade/future_trade"
+    },
+    "next": {
+      "title": "Two-Factor Authentication",
+      "permalink": "/latest/user-guides/2fa/"
+    }
+  }
+}

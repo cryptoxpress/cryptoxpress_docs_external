@@ -1,0 +1,28 @@
+{
+  "unversionedId": "trading/transaction_history",
+  "id": "trading/transaction_history",
+  "title": "Transaction History",
+  "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+  "source": "@site/docs/trading/transaction_history.md",
+  "sourceDirName": "trading",
+  "slug": "/trading/transaction_history",
+  "permalink": "/github_deploy/latest/trading/transaction_history",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Transaction History",
+    "sidebar_label": "Transaction History",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trading fees",
+    "permalink": "/github_deploy/latest/trading/futures_trading/charges"
+  },
+  "next": {
+    "title": "Transfer Funds",
+    "permalink": "/github_deploy/latest/trading/transfer"
+  }
+}
