@@ -1,355 +1,312 @@
 {
-  "/github_deploy/__docusaurus/debug-f27": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    }
-  },
-  "/github_deploy/__docusaurus/debug/config-165": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    }
-  },
-  "/github_deploy/__docusaurus/debug/content-3f1": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    },
-    "allContent": "allContent---github-deploy-docusaurus-debug-content-246-7ec"
-  },
-  "/github_deploy/__docusaurus/debug/globalData-604": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    }
-  },
-  "/github_deploy/__docusaurus/debug/metadata-5ce": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    }
-  },
-  "/github_deploy/__docusaurus/debug/registry-cd0": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    }
-  },
-  "/github_deploy/__docusaurus/debug/routes-c21": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---github-deploy-docusaurus-debug-458-eb6"
-    }
-  },
   "/github_deploy/blog-98b": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---github-deploy-blog-766-072"
+        "content": "7661071f"
       },
       {
-        "content": "content---github-deploy-blogf-4-f-f29"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---github-deploy-blog-871-40b"
+        "content": "8717b14a"
       },
       {
-        "content": "content---github-deploy-blog-925-79e"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---github-deploy-blogf-39-293"
+    "metadata": "f3963734"
   },
   "/github_deploy/blog/archive-bf3": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "archive": "archive---github-deploy-blog-archivebdc-444"
+    "archive": "bdcef126"
   },
   "/github_deploy/blog/first-blog-post-c9f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
-    "content": "content---github-deploy-blog-first-blog-poste-27-8eb"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/github_deploy/blog/long-blog-post-6ec": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
-    "content": "content---github-deploy-blog-long-blog-post-736-929"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/github_deploy/blog/mdx-blog-post-625": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
-    "content": "content---github-deploy-blog-mdx-blog-post-593-fb4"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/github_deploy/blog/tags-2d9": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
-    "tags": "tags---github-deploy-blog-tags-860-651"
+    "sidebar": "814f3328",
+    "tags": "860bed8d"
   },
   "/github_deploy/blog/tags/docusaurus-71b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---github-deploy-blog-766-072"
+        "content": "7661071f"
       },
       {
-        "content": "content---github-deploy-blogf-4-f-f29"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---github-deploy-blog-871-40b"
+        "content": "8717b14a"
       },
       {
-        "content": "content---github-deploy-blog-925-79e"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---github-deploy-blog-tags-docusaurusaf-7-6c7",
-    "listMetadata": "listMetadata---github-deploy-blog-tags-docusaurusbca-def"
+    "tag": "af754304",
+    "listMetadata": "bcaf23cc"
   },
   "/github_deploy/blog/tags/facebook-a31": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---github-deploy-blog-766-072"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---github-deploy-blog-tags-facebook-2-b-3-7fc",
-    "listMetadata": "listMetadata---github-deploy-blog-tags-facebook-46-a-49d"
+    "tag": "2b3cf83d",
+    "listMetadata": "46ac00ff"
   },
   "/github_deploy/blog/tags/hello-3c8": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---github-deploy-blog-766-072"
+        "content": "7661071f"
       },
       {
-        "content": "content---github-deploy-blog-871-40b"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---github-deploy-blog-tags-hello-3-a-3-fbe",
-    "listMetadata": "listMetadata---github-deploy-blog-tags-helloc-67-082"
+    "tag": "3a327aa3",
+    "listMetadata": "c67fd383"
   },
   "/github_deploy/blog/tags/hola-30f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---github-deploy-blog-925-79e"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---github-deploy-blog-tags-hola-42-c-b43",
-    "listMetadata": "listMetadata---github-deploy-blog-tags-holabf-8-823"
+    "tag": "42c6ca19",
+    "listMetadata": "bf81471c"
   },
   "/github_deploy/blog/welcome-f2b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---github-deploy-blogc-02-d92"
+      "plugin": "c02c7c98"
     },
-    "sidebar": "sidebar---github-deploy-blog-814-96e",
-    "content": "content---github-deploy-blog-welcomed-9-f-7ad"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/github_deploy/markdown-page-b13": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---github-deploy-markdown-page-978-20b"
+      "plugin": "978b630c"
     },
-    "content": "content---github-deploy-markdown-page-393-28c"
+    "content": "393be207"
   },
   "/github_deploy/latest-e12": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---github-deploy-latest-8-ac-f3a"
+      "plugin": "8acb67e2"
     },
-    "versionMetadata": "versionMetadata---github-deploy-latest-935-f4a"
+    "versionMetadata": "935f2afb"
   },
   "/github_deploy/latest/basics/getting_started/beneficiary-20c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-basics-getting-started-beneficiary-7-a-9-a59"
+    "__comp": "17896441",
+    "content": "7a9346b1"
   },
   "/github_deploy/latest/basics/getting_started/import_wallet-b8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-basics-getting-started-import-wallet-4-ab-baf"
+    "__comp": "17896441",
+    "content": "4ab391da"
   },
   "/github_deploy/latest/basics/getting_started/intro-22d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-basics-getting-started-intro-455-b67"
+    "__comp": "17896441",
+    "content": "45578a4e"
   },
   "/github_deploy/latest/basics/getting_started/overview-002": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-basics-getting-started-overview-0-e-3-1f8"
+    "__comp": "17896441",
+    "content": "0e3c1d89"
   },
   "/github_deploy/latest/basics/introduction-d88": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-basics-introduction-86-d-9e4"
+    "__comp": "17896441",
+    "content": "86d396b3"
   },
   "/github_deploy/latest/category/account-cfc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-account-376-9a8"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3767e7ac"
   },
   "/github_deploy/latest/category/basics-039": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-basics-87-c-f52"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "87ceb717"
   },
   "/github_deploy/latest/category/coins-368": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-coins-423-582"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "423d6590"
   },
   "/github_deploy/latest/category/explore-the-world-a02": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-explore-the-world-8-dd-815"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "8dd722cd"
   },
   "/github_deploy/latest/category/faqs-546": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-faqsab-8-3c2"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ab838024"
   },
   "/github_deploy/latest/category/futures-trading-4bf": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-futures-tradingdcb-ab0"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "dcb89626"
   },
   "/github_deploy/latest/category/getting-started-752": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-getting-started-915-df3"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "915c2ded"
   },
   "/github_deploy/latest/category/security-management-b97": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-security-managementda-8-99b"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "da87a3d6"
   },
   "/github_deploy/latest/category/spot-trading-bbc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-spot-trading-459-8a3"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "4593f57a"
   },
   "/github_deploy/latest/category/trading-113": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-trading-711-1c9"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "71185c48"
   },
   "/github_deploy/latest/category/user-guide-03e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---github-deploy-latest-category-user-guide-3-ea-734"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3eaf8634"
   },
   "/github_deploy/latest/faqs/-ace": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-faqs-cb-2-473"
+    "__comp": "17896441",
+    "content": "cb29e840"
   },
   "/github_deploy/latest/trading/coins/-7f6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-coins-170-776"
+    "__comp": "17896441",
+    "content": "170177ef"
   },
   "/github_deploy/latest/trading/coins/info-bf3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-coins-info-4-de-421"
+    "__comp": "17896441",
+    "content": "4de71dcb"
   },
   "/github_deploy/latest/trading/coins/news-a69": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-coins-newsf-85-41e"
+    "__comp": "17896441",
+    "content": "f8537493"
   },
   "/github_deploy/latest/trading/coins/watchlist-5f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-coins-watchlist-37-a-8fe"
+    "__comp": "17896441",
+    "content": "37ab63a2"
   },
   "/github_deploy/latest/trading/futures_trading/charges-77d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-futures-trading-charges-538-270"
+    "__comp": "17896441",
+    "content": "538177bb"
   },
   "/github_deploy/latest/trading/futures_trading/future_trade-d02": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-futures-trading-future-tradef-9-f-bed"
+    "__comp": "17896441",
+    "content": "f9f5c462"
   },
   "/github_deploy/latest/trading/futures_trading/orders-3bd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-futures-trading-orders-2-e-5-205"
+    "__comp": "17896441",
+    "content": "2e5f4c9e"
   },
   "/github_deploy/latest/trading/spot_trading/charges-45c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-spot-trading-charges-862-4ba"
+    "__comp": "17896441",
+    "content": "862f2579"
   },
   "/github_deploy/latest/trading/spot_trading/orders-742": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-spot-trading-orders-6-fe-74b"
+    "__comp": "17896441",
+    "content": "6fe48260"
   },
   "/github_deploy/latest/trading/spot_trading/spot_trade-527": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-spot-trading-spot-trade-8-e-6-8ff"
+    "__comp": "17896441",
+    "content": "8e6bede8"
   },
   "/github_deploy/latest/trading/transaction_history-601": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-transaction-history-7-d-0-a90"
+    "__comp": "17896441",
+    "content": "7d006e64"
   },
   "/github_deploy/latest/trading/transfer-8ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-trading-transfere-3-d-710"
+    "__comp": "17896441",
+    "content": "e3d2e588"
   },
   "/github_deploy/latest/travel/flights-c22": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-travel-flights-9-d-3-293"
+    "__comp": "17896441",
+    "content": "9d3aadbf"
   },
   "/github_deploy/latest/travel/hotels-a25": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-travel-hotels-857-e29"
+    "__comp": "17896441",
+    "content": "857fa92c"
   },
   "/github_deploy/latest/user-guides/account/delete_account-ceb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-account-delete-account-5-df-429"
+    "__comp": "17896441",
+    "content": "5df37f5a"
   },
   "/github_deploy/latest/user-guides/account/kyc-40a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-account-kyc-290-0e2"
+    "__comp": "17896441",
+    "content": "290fc2b5"
   },
   "/github_deploy/latest/user-guides/gift_card-9e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-gift-carda-49-e35"
+    "__comp": "17896441",
+    "content": "a496e119"
   },
   "/github_deploy/latest/user-guides/nft-fb3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-nft-912-ac8"
+    "__comp": "17896441",
+    "content": "91281746"
   },
   "/github_deploy/latest/user-guides/security/2fa-6b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-security-2-fa-90-d-950"
+    "__comp": "17896441",
+    "content": "90d6416f"
   },
   "/github_deploy/latest/user-guides/security/app_pin-d8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-security-app-pinaa-8-f88"
+    "__comp": "17896441",
+    "content": "aa8b4d43"
   },
   "/github_deploy/latest/user-guides/wallets-5d5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---github-deploy-latest-user-guides-wallets-906-7c6"
+    "__comp": "17896441",
+    "content": "9060763f"
   },
   "/github_deploy/-7f7": {
-    "__comp": "__comp---site-src-pages-index-jsx-9-dd-cb1",
+    "__comp": "9dd8a0d2",
     "__context": {
-      "plugin": "plugin---github-deploy-markdown-page-978-20b"
+      "plugin": "978b630c"
     },
-    "config": "config---github-deploy-5-e-9-d3d"
+    "config": "5e9f5e1a"
   }
 }

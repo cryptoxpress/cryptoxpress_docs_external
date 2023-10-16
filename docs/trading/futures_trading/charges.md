@@ -5,6 +5,7 @@ sidebar_position : 3
 ---
 import Banner1 from '/img/equations/Snap_2.png'
 import Banner2 from '/img/equations/Snap_3.png'
+import Link from "@docusaurus/Link"
 
 <div className="overview-header">
   <div>
@@ -17,12 +18,12 @@ import Banner2 from '/img/equations/Snap_3.png'
     <h4>Quick Links</h4>
     <ul>
       <li>
-        <VersionedLink to="/schema/quickstart">
+        <Link to="/latest/trading/futures_trading/future_trade">
           Futures Trading Guide Here !
-        </VersionedLink>
+        </Link>
       </li>
       <li>
-        <VersionedLink to="/getting-started/how-it-works/index">Learn more about how CryptoXpress works.</VersionedLink>
+        <Link to="/latest/basics/getting_started/overview">Learn more about how CryptoXpress works.</Link>
       </li>
     </ul>
   </div>

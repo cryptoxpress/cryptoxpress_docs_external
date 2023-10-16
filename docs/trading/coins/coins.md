@@ -20,12 +20,12 @@ import Link from "@docusaurus/Link"
     <h4>Quick Links</h4>
     <ul>
       <li>
-        <Link to="/schema/quickstart">
+        <Link to="/latest/basics/getting_started/import_wallet">
           Import Wallet from other App
         </Link>
       </li>
       <li>
-        <Link to="/getting-started/how-it-works/index">Learn more about how CryptoXpress works.</Link>
+         <Link to="/latest/basics/getting_started/overview">Learn more about how CryptoXpress works.</Link>
       </li>
     </ul>
   </div>

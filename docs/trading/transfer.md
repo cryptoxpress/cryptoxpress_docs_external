@@ -4,6 +4,9 @@ sidebar_label : Transfer Funds
 sidebar_position : 4
 ---
 
+import Banner1 from '/img/futures/transfer_banner_1.png'
+import Banner2 from '/img/futures/transfer_banner_2.png'
+
 <div className="overview-header">
   <div>
     <p>
@@ -16,3 +19,16 @@ sidebar_position : 4
   </div>
 </div>
 
+## Seamlessly Shift: Transfer Your Funds between the Future and the Spot!
+
+1. Just open the **Futures Screen**, there would be an arrow icon just right to the available funds. Tap on it to open transfer menu.
+
+<center>
+<img src={Banner1} width="270" />
+</center>
+
+2. Now in the **Transfer** menu fill in the **Amount** and select the **coin** which you need to transfer then tap on **Confirm** to initiate the transfer.
+
+<center>
+<img src={Banner2} width="270" />
+</center>

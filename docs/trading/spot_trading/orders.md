@@ -4,6 +4,7 @@ sidebar_label : Order Types
 sidebar_position : 2
 ---
 
+import Link from "@docusaurus/Link"
 
 <div className="overview-header">
   <div>
@@ -16,12 +17,12 @@ sidebar_position : 2
     <h4>Quick Links</h4>
     <ul>
       <li>
-        <VersionedLink to="/schema/quickstart">
+        <Link to="/latest/basics/getting_started/import_wallet">
           Import Wallet from other App
-        </VersionedLink>
+        </Link>
       </li>
       <li>
-        <VersionedLink to="/getting-started/how-it-works/index">Learn more about how CryptoXpress works.</VersionedLink>
+         <Link to="/latest/basics/getting_started/overview">Learn more about how CryptoXpress works.</Link>
       </li>
     </ul>
   </div>
@@ -39,7 +40,3 @@ A limit order is a type of order you put on the order book with a specific price
 ### Stop-Limit Orders: Your Secret Weapon in Crypto Trading Precision!
 
 A stop-limit order is a trading tool with two key prices: a stop price and a limit price. It allows you to specify your desired profit threshold or the maximum price you're willing to pay or lose in a trade. When the market reaches the trigger price, the order automatically converts into a limit order and is executed at or better than the limit price you've set. This way, you have control over your trade's outcomes.
-
-### Mastering Trading Strategy: The Power of OCO Orders – When One Cancels the Other!
-
-### Stay Ahead with Trailing Stops: Your Secret to Secure Profits!

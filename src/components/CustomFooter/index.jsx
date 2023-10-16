@@ -9,7 +9,7 @@ import logo from '../../../static/img/Logo-cx.png'
 export default function Footer() {
   return (
     <footer className="text-gray-600 body-font footer-page">
-      <div className="container px-5 py-8 mx-auto flex items-center md:flex-row sm:flex-col text-center">
+      <div className="px-5 py-8 mx-auto flex items-center md:flex-row sm:flex-col text-center">
         <a className="flex p-4 title-font font-medium items-center md:justify-start justify-center text-gray-900">
           <img src={logo} height={25} width={165} className='navbar_logo'/>
           {/* <span className="ml-3 text-xl blog_card_title">CryptoXpress</span> */}

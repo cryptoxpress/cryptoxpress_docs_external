@@ -16,7 +16,7 @@ const FEATURES = [
     text: "Buy and sell over 300 different cryptocurrency pairs using only 3 clicks, without paying any commissions. ",
     lightImage : 'img/undraw_docusaurus_mountain.svg',
     darkImage : 'img/undraw_docusaurus_react.svg',
-    link : '/latest/category/trade'
+    link : '/latest/category/trading'
   },
   {
     title: "Wallets",

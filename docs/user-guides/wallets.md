@@ -10,7 +10,7 @@ import Banner2 from '/img/wallet_banner_2.png'
 import Banner3 from '/img/wallet_banner_3.png'
 import Banner4 from '/img/wallet_banner_4.png'
 import Banner5 from '/img/wallet_banner_5.png'
-
+import Link from "@docusaurus/Link"
 import {
   Wallet16Regular
 } from '@fluentui/react-icons';
@@ -36,12 +36,12 @@ import '../../src/css/overview-page.css'
     <h4>Quick Links</h4>
     <ul>
       <li>
-        <VersionedLink to="/schema/quickstart">
+        <Link to="/latest/basics/getting_started/import_wallet">
           Import Wallet from other App
-        </VersionedLink>
+        </Link>
       </li>
       <li>
-        <VersionedLink to="/getting-started/how-it-works/index">Learn more about how CryptoXpress works.</VersionedLink>
+        <Link to="/latest/basics/getting_started/overview">Learn more about how CryptoXpress works.</Link>
       </li>
     </ul>
   </div>

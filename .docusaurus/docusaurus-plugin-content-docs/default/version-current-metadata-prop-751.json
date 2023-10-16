@@ -209,7 +209,7 @@
               },
               {
                 "type": "link",
-                "label": "Order Types",
+                "label": "Interface",
                 "href": "/github_deploy/latest/trading/futures_trading/orders",
                 "docId": "trading/futures_trading/orders"
               },
@@ -352,7 +352,7 @@
     },
     "trading/futures_trading/orders": {
       "id": "trading/futures_trading/orders",
-      "title": "Different Order Types",
+      "title": "Understanding your Futures",
       "description": "The CryptoXpress Application also offers a Futures trading feature, allowing users to engage with contracts between investors betting on a cryptocurrency future price.",
       "sidebar": "tutorialSidebar"
     },

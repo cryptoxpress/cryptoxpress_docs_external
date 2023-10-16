@@ -337,6 +337,22 @@ html[data-theme='light'] .footer_logo {
 
 .container {
   display : flex;
+  margin-left: 0;
+
+}
+
+@media only screen and (max-width: 750px) {
+  .col {
+    width: 100vw;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 996px) {
+  .col {
+    width: 100vw;
+    flex-direction: column;
+  }
 }
 
 .para-break {
@@ -345,4 +361,7 @@ html[data-theme='light'] .footer_logo {
 
 html[data-theme='light'] .para-break {
   background-color: #eceaea;
+}
+.col--9{
+  width: 98vw;
 }

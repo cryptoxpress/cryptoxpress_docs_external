@@ -155,7 +155,7 @@ function BlogListPageContent(props) {
 
             <h3 style={{"fontSize" : "2em", "textAlign" : "center", textDecoration : 'underline'}}>All Blogs</h3>
             <section className="text-gray-600 body-font">
-                <div className="container px-5 py-24 mx-auto">
+                <div className="px-5 py-24 mx-auto">
                     <div className="flex flex-wrap -m-4">
                     {items.map((item) => (
                             <BlogCards {...item.content.metadata} key={item.content.metadata.title} />

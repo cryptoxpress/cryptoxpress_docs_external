@@ -18,46 +18,52 @@ const ALL_RESOURCES: Resource[] = [
   {
     url: '/guides/v2-migration-guide',
 
-    title: 'Migrate to v2 REST API',
+    title: 'How to Trade using BTCUSDT',
     description:
-      'Excited to announce the release of our v2 REST APIs, which are faster, more idiomatic, and easier to use.',
+      'Excited to trade BTCUSDT just get started in some few steps by reading the article for better understanding',
     image:
       '/img/docusaurus-social-card.jpg'
 
   },
   {
-    url: '/blog/welcome',
+    url: '/guides/v2-migration-guide',
 
-    title: 'HLS in Depth',
+    title: 'How to Trade using BTCUSDT',
     description:
-      "HLS is widely adopted, simple, yet robust. Learn how it works from a client's perspective, its segments, features, and disadvantages.",
+      'Excited to trade BTCUSDT just get started in some few steps by reading the article for better understanding',
     image:
       '/img/docusaurus-social-card.jpg'
 
   },
   {
-    url: '/blog/welcome',
+    url: '/guides/v2-migration-guide',
 
-    title: 'Integrating React UI Kit',
+    title: 'How to Trade using BTCUSDT',
     description:
-      'In this video learn how to use React UI Kit prebuilt components to add live video and audio to your React application.',
-    image: '/img/docusaurus-social-card.jpg'
+      'Excited to trade BTCUSDT just get started in some few steps by reading the article for better understanding',
+    image:
+      '/img/docusaurus-social-card.jpg'
 
   },
   {
-    url: '/blog/welcome',
+    url: '/guides/v2-migration-guide',
 
-    title: 'Video KYC App using React UI Kit',
+    title: 'How to Trade using BTCUSDT',
     description:
-      'In this episode of Dyte Byte we show how to build Video KYC App using React UI Kit.',
-    image: '/img/docusaurus-social-card.jpg'
+      'Excited to trade BTCUSDT just get started in some few steps by reading the article for better understanding',
+    image:
+      '/img/docusaurus-social-card.jpg'
+
   },
   {
-    url: '/blog/welcome',
+    url: '/guides/v2-migration-guide',
 
-    title: 'Calling Dyte REST APIs',
-    description: 'Understand our HTTP REST APIs',
-    image: '/img/docusaurus-social-card.jpg'
+    title: 'How to Trade using BTCUSDT',
+    description:
+      'Excited to trade BTCUSDT just get started in some few steps by reading the article for better understanding',
+    image:
+      '/img/docusaurus-social-card.jpg'
+
   },
 ];
 
@@ -124,7 +130,7 @@ export default function ResourcesSection() {
             <h4 className='font-medium text-neutral-400 -mt-2 mb-6'>Check out these Blogs</h4>
           </div>
           <Link
-            to="https://dyte.io/blog"
+            to="/blog"
             className="font-jakarta text-sm font-semibold text-primary"
           >
             All Blogs <ArrowRightFilled className="ml-1" />
