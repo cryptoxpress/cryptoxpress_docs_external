@@ -63,6 +63,11 @@ export default [
     exact: true
   },
   {
+    path: '/github_deploy/search',
+    component: ComponentCreator('/github_deploy/search', '815'),
+    exact: true
+  },
+  {
     path: '/github_deploy/latest',
     component: ComponentCreator('/github_deploy/latest', 'e12'),
     routes: [

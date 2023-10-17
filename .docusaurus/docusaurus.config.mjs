@@ -335,6 +335,19 @@ export default {
         }
       ]
     },
+    "algolia": {
+      "appId": "VU58O4U6SX",
+      "apiKey": "25f0eaa03b72458bbdaf204febaee784",
+      "indexName": "docs",
+      "contextualSearch": true,
+      "externalUrlRegex": "external\\.com|domain\\.com",
+      "replaceSearchResultPathname": {
+        "from": "/docs/",
+        "to": "/"
+      },
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,

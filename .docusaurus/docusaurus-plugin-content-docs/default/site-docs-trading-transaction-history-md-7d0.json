@@ -2,7 +2,7 @@
   "unversionedId": "trading/transaction_history",
   "id": "trading/transaction_history",
   "title": "Transaction History",
-  "description": "In addition to its core services, CryptoXpress offers the convenience of booking both domestic and international flights directly within the CryptoXpress Application, all facilitated with cryptocurrency payments.",
+  "description": "CryptoXpress Wallet is a cryptocurrency wallet that simplifies interaction with CryptoXpress Application on the Binance smart Chain (BSC). CryptoXpress Wallet serves as a digital wallet where users can securely store, send and recieve Binance Coins(BNB) and various Binance-based tokens (BEP-20).",
   "source": "@site/docs/trading/transaction_history.md",
   "sourceDirName": "trading",
   "slug": "/trading/transaction_history",
